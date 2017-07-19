@@ -1,0 +1,2009 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Ricardo Zuccarelli</Author>
+  <LastAuthor>Owner</LastAuthor>
+  <Created>2016-07-07T22:08:24Z</Created>
+  <LastSaved>2016-07-07T22:10:24Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9060</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Planilha1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="176" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="74.25"/>
+   <Column ss:Width="87.75"/>
+   <Column ss:Width="103.5"/>
+   <Column ss:Width="247.5"/>
+   <Column ss:Width="168.75"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="126.75"/>
+   <Column ss:Width="105"/>
+   <Column ss:Width="337.5"/>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">EAN</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PREÇO VENDA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CÓDIGO INTERNO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRODUTO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">APRESENTAÇÃO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">STATUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">UNIDADE DE NEGÓCIO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FAMÍLIA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SKU</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862980047</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.57</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">107</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AEROMED XAROPE </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. 120 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AEROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AEROMED XAROPE VD. 120 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862925017</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62925017</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS (VIT A,D+OX ZINCO) POM 45G</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">POM 45G</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS (VIT A,D+OX ZINCO) POM 45G</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910372</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.3839999999999986</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">70</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AS-MED INFANTIL 100 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 200 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AS-MED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AS-MED INFANTIL 100 MGCX. C/ 200 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7894164000418</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">64000418</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS BABY POM 45GRS MEDQUIMICA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">45GRS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS BABY POM 45GRS MEDQUIMICA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910105</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">29.783999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">66</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AS-MED 500MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. Com 200 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AS-MED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AS-MED 500MGCX. COM 200 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862925055</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62925055</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS POM 45GRS MEDQUIMICA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">POM 45 GRS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ALIVGLOS POM 45GRS MEDQUIMICA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862990084</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.8151999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7981</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ASSEPMED 1%</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. 30 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ASSEPMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ASSEPMED 1%FRS. 30 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862990091</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4.7940000000000005</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7980</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ASSEPMED 1%</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Spray 50 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ASSEPMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ASSEPMED 1%SPRAY 50 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910716</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.4272</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 03 comp. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED 500MG CX. C/ 03 COMP. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">183.6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">9974</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 300 comp. Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED 500MG CX. C/ 300 COMP. HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918958</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.8759999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14373</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMICINA DI-HIDRATADA  500MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 03 comp. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMICINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMICINA DI-HIDRATADA  500MGCX. C/ 03 COMP. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910785</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">75</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX COMP. REVESTIDO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX COMP. REVESTIDOCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918965</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">201.96</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14374</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMICINA DI-HIDRATADA 500 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 300 comp. Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMICINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMICINA DI-HIDRATADA 500 MGCX. C/ 300 COMP. HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917029</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">1040</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX COMP. REVESTIDO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX COMP. REVESTIDOCX. C/ 100 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922085</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">34.68</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">6678</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BOLDOBEBA 10ML 60FLAC (MEDQUIMICA)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">60FLAC.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BOLDOBEBA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BOLDOBEBA 10ML 60FLAC (MEDQUIMICA)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940096</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">130</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX GOTAS </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. C/ 20 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATROVEX GOTAS FRS. C/ 20 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960216</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.7919999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14107</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CALCIMED SUSP. 240ML (C.CALCIO+COLECALCIF.)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUSP 240ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CALCIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CALCIMED SUSP. 240ML (C.CALCIO+COLECALCIF.)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862923365</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.2647999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">15125</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL 25 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. Com 30 comp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL 25 MGCX. COM 30 COMP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862923389</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">14.076000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">15126</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL 25 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. Com 500 comp Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL 25 MGCX. COM 500 COMP HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910709</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62910709</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 03 comp. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">AZITROMED 500MG CX. C/ 03 COMP. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862923372</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.04</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">15124</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL 25 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. Com 60 comp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CAPTOPRIL 25 MGCX. COM 60 COMP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862980061</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.2632000000000003</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2647</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 100MG XPE INFANTIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs c/ 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 100MG XPE INFANTILFRS C/ 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862980054</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.8956</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2646</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 250MG XPE ADULTO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs c/ 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 250MG XPE ADULTOFRS C/ 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910839</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">22.236000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">76</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEFALINA COMP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 25X4 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEFALINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEFALINA COMP. CX. C/ 25X4 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920043</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">69</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEFALINA COMP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEFALINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEFALINA COMP. CX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862990107</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.6711999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">9366</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE HIDROXIZINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2 mg/ml sol.Frs 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROXIZINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE HIDROXIZINA2 MG/ML SOL.FRS 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918071</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.7944</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2650</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. rev. Cx. c/ 20</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MGCOMP. REV. CX. C/ 20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918101</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">34.68</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2648</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. ver. Cx. c/ 300 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MGCOMP. VER. CX. C/ 300 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918095</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.3839999999999986</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2669</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. rev. Cx. c/ 60</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MGCOMP. REV. CX. C/ 60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918194</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2645</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 100MG XPE INFANTIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs c/ 100ml Cx. C/ 50  Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 100MG XPE INFANTILFRS C/ 100ML CX. C/ 50  HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918064</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.6520000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2152</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE TETRACICLINA 500MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 8 Cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRACICLINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE TETRACICLINA 500MGCX. C/ 8 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918057</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2151</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE TETRACICLINA 500MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 80 Cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRACICLINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE TETRACICLINA 500MGCX. C/ 80 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918200</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2644</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 250MG XPE ADULTO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs c/ 100ml Cx. C/ 50  Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CARBOCISTEÍNA 250MG XPE ADULTOFRS C/ 100ML CX. C/ 50  HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917708</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.5472000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4016</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B COMP.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 Drágeas</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B COMP.CX. C/ 100 DRÁGEAS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917715</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.9159999999999995</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4017</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B COMP.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 50 Drágeas</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B COMP.CX. C/ 50 DRÁGEAS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862990022</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.5499999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">115</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B  SOLUÇ. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">COMPLEXO B  SOLUÇ. VD. C/ 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862912017</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">7.4459999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">124</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DELTAMETRIL SHAMPOO </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DELTAMETRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DELTAMETRIL SHAMPOO VD. C/ 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862921101</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">9367</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE HIDROXIZINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2 mg/ml sol.Frs 100ml cx c/ 80 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROXIZINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE HIDROXIZINA2 MG/ML SOL.FRS 100ML CX C/ 80 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910017</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">18.767999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">73</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG CX. C/ 100 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862926014</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40.698</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10276</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG CX. C/ 200 COMP.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx  20x10 Comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG CX. C/ 200 COMP.CX  20X10 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910013</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">40.698</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">74</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG CX. C/ 200 COMP.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. 50x4  Comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG CX. C/ 200 COMP.CX. 50X4  COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940027</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.3872</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">127</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED GOTAS </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. C/ 10ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED GOTAS FRS. C/ 10ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918088</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2649</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. rev. Cx. c/ 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CLORIDRATO DE RANITIDINA 150MGCOMP. REV. CX. C/ 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940058</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.2848000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">126</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED GOTAS </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. C/ 20 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED GOTAS FRS. C/ 20 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917753</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">94.248000000000005</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">1498</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLOXIMED 400 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 420 </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLOXIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLOXIMED 400 MG CX. C/ 420 </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910365</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.8555999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLOXIMED 400 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 14 comp. rev.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLOXIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLOXIMED 400 MG CX. C/ 14 COMP. REV.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970567</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.97919999999999996</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14370</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL 150 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 01 Cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL 150 MGCX. C/ 01 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970574</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.9176</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14371</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL 150 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 02 Cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL 150 MGCX. C/ 02 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970581</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30.6</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14372</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL 150 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 100 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCONAZOL 150 MGCX. C/ 100 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970147</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.91800000000000004</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">6880</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL 150MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 01 Cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL 150MG CX. C/ 01 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970154</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.8768</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">6879</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL 150MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 02 Cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL 150MG CX. C/ 02 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910082</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62910082</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIMED 500MG CX. C/ 100 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917197</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">32.027999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">6878</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL 150MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 100 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FLUCOVIL 150MG CX. C/ 100 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960131</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.61</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">109</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FUNGISTATINA SUSP. 100.000 UI </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 50ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FUNGISTATINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FUNGISTATINA SUSP. 100.000 UI VD. C/ 50ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862912024</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">7.7927999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2229</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FUNGONAZOL SHAMPOO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. c/ 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FUNGONAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">FUNGONAZOL SHAMPOOVD. C/ 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910037</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4.0392000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL COMP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL COMP. CX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960049</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6.5280000000000005</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">117</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL SUSP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 150ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL SUSP. VD. C/ 150ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918279</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3447</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIRONA SÓDICA GOTAS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. C/ 20 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIRONA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">DIPIRONA SÓDICA GOTASFRS. C/ 20 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910556</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.2852000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GLICONIL 5,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GLICONIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GLICONIL 5,0MG CX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862925024</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62925024</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ESPIMED (BENZOILA 5%) 20G</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String"> (BENZOILA 5%) 20G</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ESPIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ESPIMED (BENZOILA 5%) 20G</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917616</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">19.992000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">97</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GLICONIL 5,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 500 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GLICONIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GLICONIL 5,0MG CX. C/ 500 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920067</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">29.58</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2712</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GRIPINEW 250MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 150 comp. (25x6)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GRIPINEW</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GRIPINEW 250MGCX. C/ 150 COMP. (25X6)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920029</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.0396000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2710</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GRIPINEW 250MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GRIPINEW</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GRIPINEW 250MGCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918583</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.2444</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 25 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/30</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 25 MG COMP. CX. C/30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918613</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">17.34</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">12017</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 25 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 500 comp. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 25 MGCX. C/ 500 COMP. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918590</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.6520000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11996</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 25 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/60</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 25 MG COMP. CX. C/60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910648</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.2444</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">5581</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 25MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 25MG CX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917302</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">21.42</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">5583</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 25 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 500 comp. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 25 MGCX. C/ 500 COMP. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910754</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.04</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">5582</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 25MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 60 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 25MG CX. C/ 60 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910129</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.5911999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">34</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 50MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 50MG CX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960186</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.588000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2358</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROXIMED 6%</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. 240ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROXIMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROXIMED 6%FRS. 240ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960087</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.6516000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3984</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 100MG/ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. Gts. c/ 20ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 100MG/MLFRS. GTS. C/ 20ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960193</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62960193</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL LARANJA 240ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LARANJA 240ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GASTROGEL LARANJA 240ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918347</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.7119999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3990</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 400 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 400 MGCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960070</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.6520000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3985</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 50MG/ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. Gts. c/ 30ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 50MG/MLFRS. GTS. C/ 30ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917654</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.53</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3986</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 50MG/ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. 30 ml cx. c/ 100 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 50MG/MLFRS. 30 ML CX. C/ 100 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940157</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.6312000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10365</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 100MG/ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Susp. Frs. 20ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 100MG/MLSUSP. FRS. 20ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920272</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">32.844000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10366</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 400MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/100 - 10 x 10 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 400MGCX. C/100 - 10 X 10 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920265</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">7.9559999999999995</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10367</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 400MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 400MGCX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940140</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.6520000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10364</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 50MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Susp. Frs. 30ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 50MGSUSP. FRS. 30ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910242</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.5911999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">16</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INFLAMEX SÓDICO 50MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INFLAMEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INFLAMEX SÓDICO 50MG CX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862980023</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6.12</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">113</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IODOFLUX XAROPE </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 100ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IODOFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IODOFLUX XAROPE VD. C/ 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918637</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11995</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 50 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/20</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROCLOROTIAZIDA 50 MGCOMP. CX. C/20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910952</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.06</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">6872</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LIVGAS 40MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LIVGAS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LIVGAS 40MGCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940065</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.5295999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3450</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LIVGAS 75MG/ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. C/ 15ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LIVGAS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LIVGAS 75MG/MLFRS. C/ 15ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862923129</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4.9367999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">13122</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LORATADINA 1 MG/ML XPE.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. 100 mL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LORATADINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LORATADINA 1 MG/ML XPE.FRS. 100 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862923136</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.2632000000000003</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">13123</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LORATADINA 1 MG/ML XPE. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. 100 mL cx. c/50 Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LORATADINA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">LORATADINA 1 MG/ML XPE. FRS. 100 ML CX. C/50 HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917210</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">85</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 50MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. c/ 500 Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HIDROFLUX 50MG COMP. C/ 500 HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896869221600</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.588000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7282</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL 500MG+200UI 60CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">500 MG  + 200UI 60 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL 500MG+200UI 60CPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922016</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.9960000000000004</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">14290</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL 600MG 60CPR.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">600 MG 60 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL 600MG 60CPR.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862990077</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9.3839999999999986</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7423</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTON</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Fr. c/ 420ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTOM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTONFR. C/ 420ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960209</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4.2023999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10626</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM 200MG SUSP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 100 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM 200MG SUSP. VD. C/ 100 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917944</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3987</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 100MG/ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. Gts. c/ 20ml cx. c/ 100 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 100MG/MLFRS. GTS. C/ 20ML CX. C/ 100 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922221</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">10.5672</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7837</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEGAVITAL 30CPR (VIT.+MIN.)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">30 CPR (VIT+MIN.)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEGAVITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEGAVITAL 30CPR (VIT.+MIN.)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918323</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3988</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 200 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 200 MGCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920104</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">11.526000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4376</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MOTIVOL 100MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MOTIVOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MOTIVOL 100MGCX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920111</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15.034800000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4374</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MOTIVOL 100MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 60 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MOTIVOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MOTIVOL 100MGCX. C/ 60 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918361</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3991</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 400 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 400 MGCX. C/ 100 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940119</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.5504</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4167</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFLUX 0,5MG/ML </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. gts. 30 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFLUX 0,5MG/ML FRS. GTS. 30 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918385</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3992</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 400 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 500 comp. rev. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROFENO 400 MGCX. C/ 500 COMP. REV. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940102</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0.83639999999999992</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2044</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFREE 9MG/ML GTS FRS 30 ML C/50 HOSP</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">9MG/ML GTS FRS 50 ML C/50 HOSP</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFREE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFREE 9MG/ML GTS FRS 30 ML C/50 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940126</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.1408000000000005</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2153</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFREE </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Spray c/ 50 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFREE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NASALFREE SPRAY C/ 50 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910747</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.4672000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">46</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NIFEDIPRESS  RETARD 20 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NIFEDIPRESS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NIFEDIPRESS  RETARD 20 MGCX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917869</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">44.88</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">1429</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NIFEDIPRESS  RETARD 20 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 500 comp. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NIFEDIPRESS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NIFEDIPRESS  RETARD 20 MGCX. C/ 500 COMP. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920234</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10363</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 200MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 20 comp. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">IBUPROMED 200MGCX. C/ 20 COMP. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922146</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62922146</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL (SUPL CALCIO + VIT) CEREJA 240ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CEREJA 240ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL (SUPL CALCIO + VIT) CEREJA 240ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922160</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62922160</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL 500MG 60CPR.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">500 MG 60 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL 500MG 60CPR.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922139</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62922139</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL CHOCOLATE  240 ML MEDQUIMICA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CHOCOLATE 240 ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDCALL CHOCOLATE  240 ML MEDQUIMICA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970185</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62970185</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL 20MG C/14 CAPS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">20 MG C/14 CAPS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL 20MG C/14 CAPS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970192</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62970192</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL 20MG C/28 CAPS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">20 MG C/ 28 CAPS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL 20MG C/28 CAPS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970093</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62970093</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL 20MG C/60 CAPS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">20 MG C/ 60 CAPS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDPRAZOL 20MG C/60 CAPS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917838</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10628</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM 200MG SUSP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Fr.Plas. Amb. 100ml cx. c/ 50 Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM 200MG SUSP. FR.PLAS. AMB. 100ML CX. C/ 50 HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917883</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10627</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM 200MG SUSP. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Fr.Plas. Amb. 50ml cx. c/ 80 Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM 200MG SUSP. FR.PLAS. AMB. 50ML CX. C/ 80 HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862960117</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62960117</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM F(SULF+TRIMET)400MG SUSP 100ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">400MG SUSP 100ML</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEDTRIM F(SULF+TRIMET)400MG SUSP 100ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922238</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62922238</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEGAVITAL (SUPL VIT E MINERAL) 90 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">(SUPL VIT E MINERAL) 90 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEGAVITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MEGAVITAL (SUPL VIT E MINERAL) 90 CPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7898939974157</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">39974157</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MULTICAL D3 60 COMPRIMIDOS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">D3 60 COMPRIMIDOS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MULTICAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">MULTICAL D3 60 COMPRIMIDOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922313</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62922313</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NEUTRACIDO 550MG 12 X 10 CP MENTA MEDQUIM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">550MG 12 X 10 CP</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NEUTRACIDO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NEUTRACIDO 550MG 12 X 10 CP MENTA MEDQUIM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922306</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62922306</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NEUTRACIDO TANGERINA 550 MG 12X10 PAST ME</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">550 MG 12X10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NEUTRACIDO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NEUTRACIDO TANGERINA 550 MG 12X10 PAST ME</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922108</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">33.659999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">6680</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NITROFIGAN 60FLAC. 10ML ABACAXI (MEDQUIM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">60FLAC.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NITROFIGAN</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NITROFIGAN 60FLAC. 10ML ABACAXI (MEDQUIM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910938</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">31.823999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2806</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX 35/300/50MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 200 - 20 x 10 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX 35/300/50MGCX. C/ 200 - 20 X 10 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910280</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4.2839999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2803</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX 35/300/50MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/30 Comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX 35/300/50MGCX. C/30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910303</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2805</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX 35/300/50MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 200 - 50 x 4 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX 35/300/50MGCX. C/ 200 - 50 X 4 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2806</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2806</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Novralflex Comp. cx. c/200 - 20 Bls. x 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">20X10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX COMP. CX. C/200 - 20 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2803</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2803</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Novralflex Comp. cx. c/30</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">C/30</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX COMP. CX. C/30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910655</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">55</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX 40MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 07 comp. rev.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX COMP. CX. C/200 - 20 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910662</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">56</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX 40MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx c/14 comp. rev.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">NOVRALFLEX COMP. CX. C/30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920074</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4064</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX 40MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx c/30 comp. rev.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PANTONAX 40MG CX C/30 COMP. REV.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918170</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.8564000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2446</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 200MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. Gts. c/ 15ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 200MG FRS. GTS. C/ 15ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910204</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11902</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 500 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/200 - 50 Bls. x 04</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 500 MG COMP. CX. C/200 - 50 BLS. X 04</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918163</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11903</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 500 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/500 - 50 Bls. x 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 500 MG COMP. CX. C/500 - 50 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910020</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11904</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 500 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/20 - 2 Bls. x 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 500 MG COMP. CX. C/20 - 2 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918149</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.448</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11899</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 750 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/20 - 2 Bls. x 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 750 MG COMP. CX. C/20 - 2 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918156</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">19.38</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11900</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 750 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/200 - 20 Bls. x 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 750 MG COMP. CX. C/200 - 20 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862920296</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">11901</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 750 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Comp. cx. c/500 - 50 Bls. x 10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PARACETAMOL 750 MG COMP. CX. C/500 - 50 BLS. X 10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917241</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">92</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOFLUX 40 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 500 comp. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOFLUX 40 MG CX. C/ 500 COMP. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910259</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.8564000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">37</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOFLUX 40 MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 40 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOFLUX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOFLUX 40 MG CX. C/ 40 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862921217</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">33.659999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">99</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10 MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BL. Cx. c/ 500 comp. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10 MGBL. CX. C/ 500 COMP. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910457</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7238</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ST Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10,0MG ST CX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910969</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.3663999999999996</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">48</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bl Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10,0MG BL CX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917395</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">8940</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ST Cx. C/ 500 comp. Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 10MGST CX. C/ 500 COMP. HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917739</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">39.78</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">13948</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Pressomede 20 mg St cx. c/500 Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">20 mg St cx. c/500 Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 20 MG ST CX. C/500 HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910464</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.6720000000000002</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7239</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 20,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ST Cx. c/ 30 comp. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSOMEDE 20,0MG ST CX. C/ 30 COMP. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917067</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">95</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 500 comp. Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG CX. C/ 500 COMP. HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910884</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.4076</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">2283</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 30 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG CX. C/ 30 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910228</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">40</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 16 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG CX. C/ 16 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910822</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">47</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 28 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PRESSTOPRIL 25,0MG CX. C/ 28 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862925031</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62925031</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PROCTOBEM POM 25GR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">POM 25GR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PROCTOBEM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">PROCTOBEM POM 25GR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910587</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.4072</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">53</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDIL 150MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 10 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDIL 150MGCX. C/ 10 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910624</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.8555999999999999</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">60</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDIL 150MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RANITIDIL 150MGCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7777777777777</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">777777</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RESTANTE DA LINHA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RESTANTE DA LINHA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RESTANTE DA LINHA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RESTANTE DA LINHA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">RESTANTE DA LINHA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918460</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3.06</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4649</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 40MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 40MGCX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918477</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">4650</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 40MG</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. c/ 300 comp. Hosp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 40MGCX. C/ 300 COMP. HOSP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918187</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.5499999999999998</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3039</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 75MG/ML </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. Gts. c/ 15ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 75MG/ML FRS. GTS. C/ 15ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917180</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">3038</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 75MG/ML </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Frs. Gts. 15 ml Cx. c/ 100 Hosp</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SIMETICONA 75MG/ML FRS. GTS. 15 ML CX. C/ 100 HOSP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922047</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">13.26</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">5145</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT 30CPR.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VIT 30CPR.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT 30CPR.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922054</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">19.584</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">5146</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT 60CPR.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VIT 60CPR.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT 60CPR.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922245</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">14.28</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7277</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT FEMME CARE 30 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VIT FEMME CARE 30 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT FEMME CARE 30 CPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922252</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">22.032</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7276</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT FEMME CARE 60 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VIT FEMME CARE 60 CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT FEMME CARE 60 CPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922191</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">18.36</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7280</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT PERFORMANCE 30CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VIT PERFORMANCE 30CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT PERFORMANCE 30CPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862922207</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">33.659999999999997</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7279</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT PERFORMANCE 60CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VIT PERFORMANCE 60CPR</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">SUPREMUS - VIT PERFORMANCE 60CPR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862918675</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">12186</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TENOXICAM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">20 mg Comp. Rev. cx c/10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TENOXICAM</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TENOXICAM20 MG COMP. REV. CX C/10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910471</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">18</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TENOXIL 20,0MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 10 comp.rev.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TENOXIL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TENOXIL 20,0MG CX. C/ 10 COMP.REV.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970031</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.56</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRAMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 cáps.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRAMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRAMED 500MG CX. C/ 100 CÁPS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862970208</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28.56</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRAMED 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 100 cáps. (10x10)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRAMED</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TETRAMED 500MG CX. C/ 100 CÁPS. (10X10)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910433</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">49.98</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">68</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 500 comp. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 500MG CX. C/ 500 COMP. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910518</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25.5</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">77</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 200 comp. 50x4</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG CX. C/ 200 COMP. 50X4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862926021</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">24.276</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">10323</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 200 comp. 20x10</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG CX. C/ 200 COMP. 20X10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910488</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">72</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 12 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG CX. C/ 12 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910501</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62910501</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG C/120 (PARACET) MEDQ</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CX C/ 120 COMP</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX 750MG C/120 (PARACET) MEDQ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940072</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.8768</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">123</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX GTS. </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Fr. C/ 15 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">TYLAFLEX GTS. FR. C/ 15 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910068</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5.2632000000000003</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">65</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C  500MG </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cx. C/ 20 comp.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C  500MG CX. C/ 20 COMP.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940034</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2.754</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">121</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C  GOTAS </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 20 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C  GOTAS VD. C/ 20 ML</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862917906</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">57.12</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">1043</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C 500 MG COMP. CX. C/300</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">500 MG COMP. CX. C/300</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">HOSPITAL</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VITAMINA C 500 MG COMP. CX. C/300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862910075</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">62910075</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VOMISTOP C/20 (METOCLOPRA) MEDQ</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">C/20 </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">INATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">OTC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VOMISTOP</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VOMISTOP C/20 (METOCLOPRA) MEDQ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">7896862940041</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1.5096000000000001</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">106</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VOMISTOP GTS - METOCLOP.</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Vd. C/ 10 ml</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ATIVO</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">BRANDED GENERIC</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VOMISTOP</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">VOMISTOP GTS - METOCLOP.VD. C/ 10 ML</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.31496062000000002"/>
+    <Footer x:Margin="0.31496062000000002"/>
+    <PageMargins x:Bottom="0.78740157499999996" x:Left="0.511811024"
+     x:Right="0.511811024" x:Top="0.78740157499999996"/>
+   </PageSetup>
+   <Zoom>70</Zoom>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,22 @@
+## controle_lupin_ean
+
+mongoimport --db kam --collection controle_lupin_ean --type json --file "C:\dev\Apache24\www\kam\_data\controle_lupin_ean\TABELA_EAN\json\Tabela EAN (Completa) (v.2).json" --jsonArray
+#mongoimport --db kam --collection controle_lupin_ean --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\TABELA_EAN\json\Tabela EAN (Completa).json" --jsonArray
+
+## demanda_estoque
+
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\EMEFARMA\json\EMEFARMA (GENÉRICO).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\EMEFARMA\json\EMEFARMA (SIMILAR).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\JOMARGIL\json\JOMARGIL.json" --jsonArray
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\RIO DROGS\json\RIO DROGS (GENÉRICO).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\RIO DROGS\json\RIO DROGS (SIMILAR).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\RIOSFARMA\json\RIOSFARMA.json" --jsonArray
+mongoimport --db kam --collection demanda_estoque --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\STOCKFARMA\json\STOCKFARMA.json" --jsonArray
+
+## demanda_estoque_de_para
+
+mongoimport --db kam --collection demanda_estoque_de_para --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\EMEFARMA\json\EMEFARMA(De para).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque_de_para --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\JOMARGIL\json\JOMARGIL (De para).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque_de_para --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\RIO DROGS\json\RIO DROGS (De para).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque_de_para --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\RIOSFARMA\json\RIOS FARMA (De para).json" --jsonArray
+mongoimport --db kam --collection demanda_estoque_de_para --type json --file "C:\dev\Apache24\www\kam\_data\demanda_estoque\STOCKFARMA\json\STOCKFARMA (De para).json" --jsonArray

@@ -1,0 +1,19 @@
+[
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"134260 - AZITROMICINA 500MG 3CPD (AM) G MDQ","vendas-mes-3":875,"vendas-mes-2":635,"vendas-mes-1":5497,"estoque-total":6100},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"73865 - CARBOCISTEINA 20MG/ML XPE INF 100ML G MDQ","vendas-mes-3":34,"vendas-mes-2":24,"vendas-mes-1":30,"estoque-total":681},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"73857 - CARBOCISTEINA 50MG/ML XPE AD 100ML G MDQ","vendas-mes-3":30,"vendas-mes-2":3,"vendas-mes-1":7,"estoque-total":45},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"134287 - FLUCONAZOL 150MG 1CAP G MDQ","vendas-mes-3":1374,"vendas-mes-2":1327,"vendas-mes-1":1909,"estoque-total":4742},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"134279 - FLUCONAZOL 150MG 2CAP G MDQ","vendas-mes-3":693,"vendas-mes-2":677,"vendas-mes-1":721,"estoque-total":1186},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"123749 - HIDROCLOROTIAZIDA 25MG 30CPD G MDQ","vendas-mes-3":1242,"vendas-mes-2":1994,"vendas-mes-1":785,"estoque-total":3513},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"124109 - HIDROXIZINA 2MG/ML SOL ORAL 100ML G MDQ","vendas-mes-3":807,"vendas-mes-2":50,"vendas-mes-1":1491,"estoque-total":1720},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"83402 - IBUPROFENO 100MG/ML SUSP ORAL 20ML G MDQ","vendas-mes-3":1899,"vendas-mes-2":2107,"vendas-mes-1":6083,"estoque-total":6203},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"83399 - IBUPROFENO 200MG 20CPD G MDQ","vendas-mes-3":0,"vendas-mes-2":0,"vendas-mes-1":0,"estoque-total":0},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"84603 - IBUPROFENO 50MG/ML SUSP 30ML G MDQ","vendas-mes-3":298,"vendas-mes-2":551,"vendas-mes-1":350,"estoque-total":1632},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"128465 - LORATADINA 1MG/ML XPE 100ML G MDQ","vendas-mes-3":29,"vendas-mes-2":21,"vendas-mes-1":24,"estoque-total":156},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"103659 - PARACETAMOL 200MG/ML GTS 15ML G MDQ","vendas-mes-3":1088,"vendas-mes-2":1204,"vendas-mes-1":36,"estoque-total":0},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"123765 - PARACETAMOL 750MG 20CPD G MDQ","vendas-mes-3":133,"vendas-mes-2":0,"vendas-mes-1":0,"estoque-total":660},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"103675 - RANITIDINA 150MG 20CPD G MDQ","vendas-mes-3":1766,"vendas-mes-2":1698,"vendas-mes-1":1597,"estoque-total":3627},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"103640 - SIMETICONA 75MG/ML GTS 15ML G MDQ","vendas-mes-3":260,"vendas-mes-2":373,"vendas-mes-1":262,"estoque-total":495},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"123803 - TENOXICAM 20MG 10CPD G MDQ","vendas-mes-3":367,"vendas-mes-2":592,"vendas-mes-1":2496,"estoque-total":4130},
+{"nome-cliente":"EMEFARMA","codigo-cliente":992,"codigo-descricao":"67083 - TETRACICLINA 500MG 8CAP (AM) G MDQ","vendas-mes-3":240,"vendas-mes-2":317,"vendas-mes-1":240,"estoque-total":424}
+]

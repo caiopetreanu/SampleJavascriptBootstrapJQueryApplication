@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="generator" content="Bootply"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Portal KAM, o Maior Aliado de Seu Negocio!</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+<div id="top-nav" class="navbar navbar-inverse navbar-static-top">
+
+    <div class="container-fluid">
+
+        <div class="navbar-header">
+
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <a id="titulo" class="navbar-brand" href="#"><i class="glyphicon glyphicon-briefcase"></i> Portal KAM, o Maior Aliado do
+                Seu Neg&oacute;cio!</a>
+
+        </div>
+
+        <div class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav navbar-right">
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#"><i
+                            class="glyphicon glyphicon-user"></i> Usu&aacute;rio <span class="caret"></span></a>
+                    <ul id="g-account-menu" class="dropdown-menu" role="menu">
+                        <li><a id="alterar-senha" href="#">Alterar Senha</a></li>
+                    </ul>
+                </li>
+
+                <li><a id="sair" href="#"><i class="glyphicon glyphicon-lock"></i> Sair</a></li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="container-fluid">
+
+    <!-- <div class="row hidden-md hidden-lg">
+
+        <div class="col-xs-3 col-sm-3">
+
+            <a href="#"><strong> Ferramentas</strong></a>
+
+            <hr>
+
+            <ul class="nav nav-stacked">
+
+                <li class="nav-header"><a href="#" data-toggle="collapse" data-target="#menu2">Relatorios</a>
+
+                    <ul class="nav nav-stacked collapse" id="menu2">
+                        <li><a href="#"><i class="glyphicon glyphicon-stats"></i> Painel Gerencial</a>
+                        </li>
+                        <li><a href="#"><i class="glyphicon glyphicon-stats"></i> Excessos</a>
+                        </li>
+                        <li><a href="#"><i class="glyphicon glyphicon-stats"></i> Rupturas</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="nav-header">
+                    <a href="#" data-toggle="collapse" data-target="#menu3">Ferramentas</a>
+                    <ul class="nav nav-stacked collapse" id="menu3">
+                        <li><a href=""><i class="glyphicon glyphicon-cloud-upload"></i> Upload de Arquivos</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+
+    </div> -->
+
+    <div style="margin-top: 1%">
+
+        <div class="btn-group col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+            <a id="painel-gerencial" href="#" class="btn btn-primary col-xs-3 col-sm-3 col-md-3 col-lg-6">
+                <i class="glyphicon glyphicon-stats"></i>
+                <br> Painel Gerencial
+            </a>
+
+            <a href="#" id="excessos" class="btn btn-primary col-xs-3 col-sm-3 col-md-3 col-lg-2">
+                <i class="glyphicon glyphicon-stats"></i>
+                <br> Excessos
+            </a>
+
+            <a href="#" id="rupturas" class="btn btn-primary col-xs-3 col-sm-3 col-md-3 col-lg-2">
+                <i class="glyphicon glyphicon-stats"></i>
+                <br> Rupturas
+            </a>
+
+            <a href="#" id="upload-arquivos" class="btn btn-primary col-xs-3 col-sm-3 col-md-3 col-lg-2">
+                <i class="glyphicon glyphicon-cloud-upload"></i>
+                <br> Upload de Arquivos
+            </a>
+
+        </div>
+
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <hr>
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+
+        <div class="panel panel-default">
+
+            <div class="panel-heading text-center">
+                <h4>FILTROS</h4>
+            </div>
+
+            <div style="height:705px;max-height:705px;overflow:auto;">
+
+                <!-- UNIDADES -->
+
+                <div class="panel-body col-xs-6 col-sm-6 col-md-6 col-lg-6">
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>MEDIDA</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:130px;max-height:130px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>PRE&Ccedil;O F&Aacute;BRICA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PRE&Ccedil;O VENDA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>UNIDADES</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>B.U.</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:170px;max-height:170px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>BRANDED GENERIC</td>
+                                    </tr>
+                                    <tr>
+                                        <td>GENERIC</td>
+                                    </tr>
+                                    <tr>
+                                        <td>OTC</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- B.U. -->
+
+                </div>
+
+                <!-- FAMILIA -->
+
+                <div class="panel-body col-xs-6 col-sm-6 col-md-6 col-lg-6">
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>FAM&Iacute;LIA</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:410px;max-height:410px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>AEROMED</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ALIVGLOS</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AS-MED</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ASSEPMED</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ATROVEX</td>
+                                    </tr>
+                                    <tr>
+                                        <td>AZITROMED</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CALCIMED</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CAPTOPRIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CARBOCISTEINA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- APRESENTACAO -->
+
+                <div class="panel-body col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>APRESENTA&Ccedil;&Atilde;O</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:100px;max-height:100px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>AEROMED (SALBUTAMOL) XPE 120 ML</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ASMED ADT 500MG 200 CPR 20X10 MEDQUIMICA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>ASMED INF 100MG 200 (20 X10) CPR</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PANPHARMA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- REGIONAL -->
+
+                <div class="panel-body col-xs-12 col-sm-12 col-md-6 col-lg-6">
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>REGIONAL</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:100px;max-height:100px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>GO</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SP</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SUL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- REPRESENTANTE -->
+
+                <div class="panel-body col-xs-12 col-sm-12 col-md-6 col-lg-6">
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>REPRESENT.</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:100px;max-height:100px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>FERNANDO</td>
+                                    </tr>
+                                    <tr>
+                                        <td>JOS&Eacute;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MARIA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- CLIENTE -->
+
+                <div class="panel-body col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <h4>CLIENTE</h4>
+                        </div>
+
+                        <div class="panel-body">
+
+                            <div class="table-responsive" style="height:100px;max-height:100px;overflow:auto;">
+
+                                <table class="table table-striped">
+
+                                    <tbody>
+                                    <tr>
+                                        <td>BRASIL</td>
+                                    </tr>
+                                    <tr>
+                                        <td>GOYAS SERVICE</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MEGAFARMA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    <tr>
+                                        <td>?</td>
+                                    </tr>
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+
+        <div class="panel panel-default">
+
+            <div class="panel-heading text-center">
+                <h4>INFORMA&Ccedil;&Otilde;ES DE DEMANDA E ESTOQUE</h4>
+            </div>
+
+            <div class="panel-body">
+
+                <div class="table-responsive" style="height:675px;max-height:675px;overflow:auto;">
+
+                    <table class="table table-striped">
+
+                        <thead>
+                        <tr>
+                            <th class="text-center">SUBTOTAL</th>
+                            <th class="text-center">117.746</th>
+                            <th class="text-center">160.046</th>
+                            <th class="text-center">121.200</th>
+                            <th class="text-center">132.997</th>
+                            <th class="text-center">234.050</th>
+                            <th class="text-center">500.078</th>
+                            <th class="text-center">113</th>
+                        </tr>
+                        <tr>
+                            <th>FAM&Iacute;LIA</th>
+                            <th class="text-center">FEV</th>
+                            <th class="text-center">MAR</th>
+                            <th class="text-center">ABR</th>
+                            <th class="text-center">M&Eacute;DIA</th>
+                            <th class="text-center">MAI</th>
+                            <th class="text-center">ESTOQUE ATUAL</th>
+                            <th class="text-center">DIAS DE ESTOQUE</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+
+                        <tr>
+                            <td>AEROMED</td>
+                            <td class="text-center">402</td>
+                            <td class="text-center">771</td>
+                            <td class="text-center">552</td>
+                            <td class="text-center">575</td>
+                            <td class="text-center">182</td>
+                            <td class="text-center">1.715</td>
+                            <td class="text-center">269</td>
+                        </tr>
+                        <tr>
+                            <td>AS-MED</td>
+                            <td class="text-center">1.027</td>
+                            <td class="text-center">3.197</td>
+                            <td class="text-center">1.021</td>
+                            <td class="text-center">1.748</td>
+                            <td class="text-center">969</td>
+                            <td class="text-center">4.231</td>
+                            <td class="text-center">410</td>
+                        </tr>
+                        <tr>
+                            <td>ASSEPMED</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">602</td>
+                            <td class="text-center">185</td>
+                            <td class="text-center">262</td>
+                            <td class="text-center">563</td>
+                            <td class="text-center">1.252</td>
+                            <td class="text-center">871</td>
+                        </tr>
+                        <tr>
+                            <td>AZITROMED</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">283</td>
+                            <td class="text-center">1.390</td>
+                            <td class="text-center">558</td>
+                            <td class="text-center">2.229</td>
+                            <td class="text-center">10.787</td>
+                            <td class="text-center">1.741</td>
+                        </tr>
+                        <tr>
+                            <td>CAPTOPRIL</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">1.888</td>
+                            <td class="text-center">0</td>
+                        </tr>
+                        <tr>
+                            <td>CARBOCISTEINA</td>
+                            <td class="text-center">27</td>
+                            <td class="text-center">136</td>
+                            <td class="text-center">210</td>
+                            <td class="text-center">124</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">815</td>
+                            <td class="text-center">1.196</td>
+                        </tr>
+                        <tr>
+                            <td>CEFALINA</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                        </tr>
+                        <tr>
+                            <td>CLORIDRATO</td>
+                            <td class="text-center">3.952</td>
+                            <td class="text-center">4.035</td>
+                            <td class="text-center">4.162</td>
+                            <td class="text-center">4.050</td>
+                            <td class="text-center">4.637</td>
+                            <td class="text-center">14.686</td>
+                            <td class="text-center">1.110</td>
+                        </tr>
+                        <tr>
+                            <td>DELTAMERIL</td>
+                            <td class="text-center">776</td>
+                            <td class="text-center">757</td>
+                            <td class="text-center">237</td>
+                            <td class="text-center">590</td>
+                            <td class="text-center">274</td>
+                            <td class="text-center">2.044</td>
+                            <td class="text-center">312</td>
+                        </tr>
+                        <tr>
+                            <td>DIPIMED</td>
+                            <td class="text-center">38.966</td>
+                            <td class="text-center">52.13</td>
+                            <td class="text-center">38.578</td>
+                            <td class="text-center">43.226</td>
+                            <td class="text-center">120.530</td>
+                            <td class="text-center">132.891</td>
+                            <td class="text-center">696</td>
+                        </tr>
+                        <tr>
+                            <td>FLOXIMED</td>
+                            <td class="text-center">682</td>
+                            <td class="text-center">1.601</td>
+                            <td class="text-center">474</td>
+                            <td class="text-center">919</td>
+                            <td class="text-center">3.907</td>
+                            <td class="text-center">3.918</td>
+                            <td class="text-center">384</td>
+                        </tr>
+                        <tr>
+                            <td>FLUCONAZOL</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">1.213</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">404</td>
+                            <td class="text-center">1.681</td>
+                            <td class="text-center">4.703</td>
+                            <td class="text-center">1.047</td>
+                        </tr>
+                        <tr>
+                            <td>FLUCOVIL</td>
+                            <td class="text-center">2.543</td>
+                            <td class="text-center">4.684</td>
+                            <td class="text-center">2.108</td>
+                            <td class="text-center">3.112</td>
+                            <td class="text-center">3.516</td>
+                            <td class="text-center">8.839</td>
+                            <td class="text-center">595</td>
+                        </tr>
+                        <tr>
+                            <td>FUNGONAZOL</td>
+                            <td class="text-center">2.881</td>
+                            <td class="text-center">2.632</td>
+                            <td class="text-center">2.779</td>
+                            <td class="text-center">2.764</td>
+                            <td class="text-center">6.182</td>
+                            <td class="text-center">15.392</td>
+                            <td class="text-center">501</td>
+                        </tr>
+                        <tr>
+                            <td>GASTROGEL</td>
+                            <td class="text-center">3.752</td>
+                            <td class="text-center">3.779</td>
+                            <td class="text-center">2.412</td>
+                            <td class="text-center">3.314</td>
+                            <td class="text-center">3.548</td>
+                            <td class="text-center">13.645</td>
+                            <td class="text-center">638</td>
+                        </tr>
+                        <tr>
+                            <td>GLICONIL</td>
+                            <td class="text-center">3.3.431</td>
+                            <td class="text-center">2.871</td>
+                            <td class="text-center">6.121</td>
+                            <td class="text-center">4.141</td>
+                            <td class="text-center">1.711</td>
+                            <td class="text-center">13.858</td>
+                            <td class="text-center">301</td>
+                        </tr>
+                        <tr>
+                            <td>GRIPINEW</td>
+                            <td class="text-center">4.943</td>
+                            <td class="text-center">5.124</td>
+                            <td class="text-center">5.942</td>
+                            <td class="text-center">5.186</td>
+                            <td class="text-center">5.103</td>
+                            <td class="text-center">15.460</td>
+                            <td class="text-center">918</td>
+                        </tr>
+                        <tr>
+                            <td>HIDROCLOROTIAZIDA</td>
+                            <td class="text-center">19.277</td>
+                            <td class="text-center">7.498</td>
+                            <td class="text-center">16.426</td>
+                            <td class="text-center">14.400</td>
+                            <td class="text-center">12.442</td>
+                            <td class="text-center">34.103</td>
+                            <td class="text-center">213</td>
+                        </tr>
+                        <tr>
+                            <td>HIDROFLUX</td>
+                            <td class="text-center">876</td>
+                            <td class="text-center">1.497</td>
+                            <td class="text-center">653</td>
+                            <td class="text-center">1.010</td>
+                            <td class="text-center">881</td>
+                            <td class="text-center">3.527</td>
+                            <td class="text-center">2.742</td>
+                        </tr>
+                        <tr>
+                            <td>HIDROXIMED</td>
+                            <td class="text-center">1.402</td>
+                            <td class="text-center">1.362</td>
+                            <td class="text-center">1.270</td>
+                            <td class="text-center">1.344</td>
+                            <td class="text-center">912</td>
+                            <td class="text-center">4.377</td>
+                            <td class="text-center">293</td>
+                        </tr>
+                        <tr>
+                            <td>IBUPROFENO</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">5.307</td>
+                            <td class="text-center">3.118</td>
+                            <td class="text-center">2.808</td>
+                            <td class="text-center">7.475</td>
+                            <td class="text-center">15.340</td>
+                            <td class="text-center">1.013</td>
+                        </tr>
+                        <tr>
+                            <td>IBUPROMED</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">1.632</td>
+                            <td class="text-center">1.281</td>
+                            <td class="text-center">971</td>
+                            <td class="text-center">406</td>
+                            <td class="text-center">977</td>
+                            <td class="text-center">169</td>
+                        </tr>
+                        <tr>
+                            <td>INFLAMEX</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">1.067</td>
+                            <td class="text-center">214</td>
+                            <td class="text-center">427</td>
+                            <td class="text-center">1.151</td>
+                            <td class="text-center">1.882</td>
+                            <td class="text-center">397</td>
+                        </tr>
+                        <tr>
+                            <td>IODOFLUX</td>
+                            <td class="text-center">383</td>
+                            <td class="text-center">57</td>
+                            <td class="text-center">121</td>
+                            <td class="text-center">187</td>
+                            <td class="text-center">199</td>
+                            <td class="text-center">830</td>
+                            <td class="text-center">400</td>
+                        </tr>
+                        <tr>
+                            <td>LIVGAS</td>
+                            <td class="text-center">9.634</td>
+                            <td class="text-center">11.764</td>
+                            <td class="text-center">13.148</td>
+                            <td class="text-center">11.515</td>
+                            <td class="text-center">9.758</td>
+                            <td class="text-center">20.848</td>
+                            <td class="text-center">1.366</td>
+                        </tr>
+                        <tr>
+                            <td>LORATIDINA</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">1.289</td>
+                            <td class="text-center">635</td>
+                            <td class="text-center">641</td>
+                            <td class="text-center">1.391</td>
+                            <td class="text-center">3.104</td>
+                            <td class="text-center">136</td>
+                        </tr>
+                        <tr>
+                            <td>MEDTOM</td>
+                            <td class="text-center">166</td>
+                            <td class="text-center">285</td>
+                            <td class="text-center">428</td>
+                            <td class="text-center">293</td>
+                            <td class="text-center">154</td>
+                            <td class="text-center">428</td>
+                            <td class="text-center">131</td>
+                        </tr>
+                        <tr>
+                            <td>MEDTRIM</td>
+                            <td class="text-center">282</td>
+                            <td class="text-center">1.831</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">704</td>
+                            <td class="text-center">1.850</td>
+                            <td class="text-center">1.912</td>
+                            <td class="text-center">244</td>
+                        </tr>
+                        <tr>
+                            <td>MOTIVOL</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                        </tr>
+                        <tr>
+                            <td>NASALFLUX</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">1.663</td>
+                            <td class="text-center">84/td>
+                            <td class="text-center">582</td>
+                            <td class="text-center">2.534</td>
+                            <td class="text-center">3.127</td>
+                            <td class="text-center">482</td>
+                        </tr>
+                        <tr>
+                            <td>NASALFREE</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">71</td>
+                            <td class="text-center">24</td>
+                            <td class="text-center">32</td>
+                            <td class="text-center">79</td>
+                            <td class="text-center">316</td>
+                            <td class="text-center">900</td>
+                        </tr>
+                        <tr>
+                            <td>NIFEDIPRESS</td>
+                            <td class="text-center">2.000</td>
+                            <td class="text-center">1.448</td>
+                            <td class="text-center">1.428</td>
+                            <td class="text-center">1.625</td>
+                            <td class="text-center">1.476</td>
+                            <td class="text-center">6.980</td>
+                            <td class="text-center">386</td>
+                        </tr>
+                        <tr>
+                            <td>NOFRAFLEX</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">2.518</td>
+                            <td class="text-center">1.725</td>
+                            <td class="text-center">1.414</td>
+                            <td class="text-center">1.326</td>
+                            <td class="text-center">32.105</td>
+                            <td class="text-center">22.751</td>
+                        </tr>
+                        <tr>
+                            <td>PARACETAMOL</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">13</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">4</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                            <td class="text-center">0</td>
+                        </tr>
+                        <tr>
+                            <td>PRESSOFLUX</td>
+                            <td class="text-center">21</td>
+                            <td class="text-center">170</td>
+                            <td class="text-center">186</td>
+                            <td class="text-center">125</td>
+                            <td class="text-center">95</td>
+                            <td class="text-center">278</td>
+                            <td class="text-center">200</td>
+                        </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+
+        <div class="panel panel-default">
+
+            <div class="panel-heading text-center">
+                <h4>SIMULADOR</h4>
+            </div>
+
+            <div class="panel-body" style="height:705px;max-height:705px;overflow:auto;">
+
+                <table class="table table-no-bottom-line">
+
+                    <tbody>
+
+                    <tr>
+                        <td>DATA DO MAPA</td>
+                        <td class="text-center">05/05/2016</td>
+                    </tr>
+                    <tr>
+                        <td>REALIZADO AT&Eacute; A DATA</td>
+                        <td class="text-center">132.997</td>
+                    </tr>
+                    <tr>
+                        <td>PRODUÇÃO MÊS DE MAIO</td>
+                        <td class="text-center">797.982</td>
+                    </tr>
+                    <tr>
+                        <td>M&Eacute;DIA PROJETADA MAR/ABR/MAI</td>
+                        <td class="text-center">359.743</td>
+                    </tr>
+                    <tr>
+                        <td>ESTOQUE EM 01/06 SEM COMPRA</td>
+                        <td class="text-center">0</td>
+                    </tr>
+                    <tr>
+                        <td>DIAS DE ESTOQUE 01/06 SEM COMPRA</td>
+                        <td class="text-center">0</td>
+                    </tr>
+                    <tr>
+                        <td>SUGEST&Atilde;O DE COMPRA</td>
+                        <td class="text-center">959.313</td>
+                    </tr>
+                    <tr>
+                        <td>ESTOQUE EM 01/06 COM SUGEST&Atilde;O</td>
+                        <td class="text-center">528.378</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center" style="color: red">
+                            <strong>AJUSTAR ESTOQUE PARA QUANTOS DIAS?</strong>
+                        </td>
+                        <td class="text-center" style="color: red">
+                            <strong>
+                                <div class="dias text-center">90</div>
+                            </strong>
+                        </td>
+                    </tr>
+
+                </table>
+
+                <div class="col-lg-12">
+
+                    <div class="center">
+
+                        <a id="dias-menos" href="#"><i class="glyphicon glyphicon-minus col-lg-1"></i></a>
+
+                        <div class="col-lg-7 col-lg-offset-1">
+                            <div class="progress">
+                                <div id="progress-dias" class="progress-bar" role="progressbar" aria-valuemin="0"
+                                     aria-valuemax="180" style="width:50%"><div class="dias">90 DIAS</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <a id="dias-mais" href="#"><i
+                                class="glyphicon glyphicon-plus lgoff1 col-lg-1 col-lg-offset-1"></i></a>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-12">
+
+                    <div class="alert-danger text-center">
+                        <strong><span style="color: red">CLIQUE OU AJUSTE A BARRA DE ROLAGEM, PARA AJUSTAR QUAL SER&Aacute; O N&Uacute;MERO DE DIAS DE ESTOQUE EM 01/06/2016</span></strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!--<div class="col-xs-12 col-sm-12 col-md-6 col-lg-12 hidden">
+    <div class="panel panel-default">
+
+        <div class="panel-heading">
+
+            <h4>STATUS</h4></div>
+
+        <div class="panel-body">
+
+            <small>Sucesso</small>
+
+            <div class="progress">
+                <div class="progress-bar progress-bar-success" role="progressbar"
+                     aria-valuenow="72"
+                     aria-valuemin="0" aria-valuemax="100" style="width: 72%">
+                    <span class="sr-only">72% Complete</span>
+                </div>
+            </div>
+
+            <small>Informacao</small>
+
+            <div class="progress">
+                <div class="progress-bar progress-bar-info progress-bar-striped active"
+                     role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"
+                     style="width: 20%">
+                    <span class="sr-only">20% Complete</span>
+                </div>
+            </div>
+
+            <small>Aviso</small>
+
+            <div class="progress">
+                <div class="progress-bar progress-bar-warning" role="progressbar"
+                     aria-valuenow="60"
+                     aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                    <span class="sr-only">60% Complete (warning)</span>
+                </div>
+            </div>
+
+            <small>Perigo</small>
+
+            <div class="progress">
+                <div class="progress-bar progress-bar-danger" role="progressbar"
+                     aria-valuenow="80"
+                     aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                    <span class="sr-only">80% Complete</span>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>-->
+
+</div>
+
+<footer class="text-center">0.1.0-SNAPSHOT - Jun/2016 : <a href="http://www.caio.petreanu.com.br"><strong>Caio C.
+    Petreanu</strong></a> : Todos os direitos reservados
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/kamServices.js"></script>
+
+</body>
+
+</html>

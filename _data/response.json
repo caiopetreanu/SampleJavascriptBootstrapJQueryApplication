@@ -1,0 +1,4007 @@
+{
+  "erro": null,
+  "result": {
+    "demandasEstoques": [
+      {
+        "_id": "577a59712c771a90562f8c12",
+        "estoque-total": 6100,
+        "vendas-mes-1": 5497,
+        "vendas-mes-2": 635,
+        "vendas-mes-3": 875,
+        "codigo-descricao": "134260 - AZITROMICINA 500MG 3CPD (AM) G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c13",
+        "estoque-total": 681,
+        "vendas-mes-1": 30,
+        "vendas-mes-2": 24,
+        "vendas-mes-3": 34,
+        "codigo-descricao": "73865 - CARBOCISTEINA 20MG/ML XPE INF 100ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c14",
+        "estoque-total": 45,
+        "vendas-mes-1": 7,
+        "vendas-mes-2": 3,
+        "vendas-mes-3": 30,
+        "codigo-descricao": "73857 - CARBOCISTEINA 50MG/ML XPE AD 100ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c15",
+        "estoque-total": 1186,
+        "vendas-mes-1": 721,
+        "vendas-mes-2": 677,
+        "vendas-mes-3": 693,
+        "codigo-descricao": "134279 - FLUCONAZOL 150MG 2CAP G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c16",
+        "estoque-total": 3513,
+        "vendas-mes-1": 785,
+        "vendas-mes-2": 1994,
+        "vendas-mes-3": 1242,
+        "codigo-descricao": "123749 - HIDROCLOROTIAZIDA 25MG 30CPD G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c17",
+        "estoque-total": 4742,
+        "vendas-mes-1": 1909,
+        "vendas-mes-2": 1327,
+        "vendas-mes-3": 1374,
+        "codigo-descricao": "134287 - FLUCONAZOL 150MG 1CAP G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c18",
+        "estoque-total": 1720,
+        "vendas-mes-1": 1491,
+        "vendas-mes-2": 50,
+        "vendas-mes-3": 807,
+        "codigo-descricao": "124109 - HIDROXIZINA 2MG/ML SOL ORAL 100ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c19",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "83399 - IBUPROFENO 200MG 20CPD G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c1a",
+        "estoque-total": 1632,
+        "vendas-mes-1": 350,
+        "vendas-mes-2": 551,
+        "vendas-mes-3": 298,
+        "codigo-descricao": "84603 - IBUPROFENO 50MG/ML SUSP 30ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c1b",
+        "estoque-total": 6203,
+        "vendas-mes-1": 6083,
+        "vendas-mes-2": 2107,
+        "vendas-mes-3": 1899,
+        "codigo-descricao": "83402 - IBUPROFENO 100MG/ML SUSP ORAL 20ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c1c",
+        "estoque-total": 156,
+        "vendas-mes-1": 24,
+        "vendas-mes-2": 21,
+        "vendas-mes-3": 29,
+        "codigo-descricao": "128465 - LORATADINA 1MG/ML XPE 100ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c1d",
+        "estoque-total": 0,
+        "vendas-mes-1": 36,
+        "vendas-mes-2": 1204,
+        "vendas-mes-3": 1088,
+        "codigo-descricao": "103659 - PARACETAMOL 200MG/ML GTS 15ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c1e",
+        "estoque-total": 660,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 133,
+        "codigo-descricao": "123765 - PARACETAMOL 750MG 20CPD G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c1f",
+        "estoque-total": 495,
+        "vendas-mes-1": 262,
+        "vendas-mes-2": 373,
+        "vendas-mes-3": 260,
+        "codigo-descricao": "103640 - SIMETICONA 75MG/ML GTS 15ML G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c20",
+        "estoque-total": 3627,
+        "vendas-mes-1": 1597,
+        "vendas-mes-2": 1698,
+        "vendas-mes-3": 1766,
+        "codigo-descricao": "103675 - RANITIDINA 150MG 20CPD G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c21",
+        "estoque-total": 424,
+        "vendas-mes-1": 240,
+        "vendas-mes-2": 317,
+        "vendas-mes-3": 240,
+        "codigo-descricao": "67083 - TETRACICLINA 500MG 8CAP (AM) G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c22",
+        "estoque-total": 4130,
+        "vendas-mes-1": 2496,
+        "vendas-mes-2": 592,
+        "vendas-mes-3": 367,
+        "codigo-descricao": "123803 - TENOXICAM 20MG 10CPD G MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c23",
+        "estoque-total": 384,
+        "vendas-mes-1": 64,
+        "vendas-mes-2": 50,
+        "vendas-mes-3": 96,
+        "codigo-descricao": "104060 - ASSEPMED 1% 30ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c24",
+        "estoque-total": 4434,
+        "vendas-mes-1": 2126,
+        "vendas-mes-2": 1447,
+        "vendas-mes-3": 2412,
+        "codigo-descricao": "23370 - AS MED 100MG INF 10X20CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c25",
+        "estoque-total": 61,
+        "vendas-mes-1": 36,
+        "vendas-mes-2": 5,
+        "vendas-mes-3": 38,
+        "codigo-descricao": "15245 - AS MED 500MG AD 20X10CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c26",
+        "estoque-total": 2731,
+        "vendas-mes-1": 205,
+        "vendas-mes-2": 1100,
+        "vendas-mes-3": 1736,
+        "codigo-descricao": "74250 - AZITROMED 500MG 3CPD (AM) EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c27",
+        "estoque-total": 279,
+        "vendas-mes-1": 189,
+        "vendas-mes-2": 207,
+        "vendas-mes-3": 108,
+        "codigo-descricao": "104051 - ASSEPMED 1% SPRAY 50ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c28",
+        "estoque-total": 82,
+        "vendas-mes-1": 37,
+        "vendas-mes-2": 52,
+        "vendas-mes-3": 39,
+        "codigo-descricao": "96717 - BOLDOBEBA 60FLAC MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c29",
+        "estoque-total": 336,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "83364 - COMPLEXO B 100CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c2a",
+        "estoque-total": 751,
+        "vendas-mes-1": 334,
+        "vendas-mes-2": 437,
+        "vendas-mes-3": 346,
+        "codigo-descricao": "10294 - COMPLEXO B SOL ORAL 100ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c2b",
+        "estoque-total": 359,
+        "vendas-mes-1": 367,
+        "vendas-mes-2": 89,
+        "vendas-mes-3": 252,
+        "codigo-descricao": "30295 - DELTAMETRIL SHAMP 100ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c2c",
+        "estoque-total": 4525,
+        "vendas-mes-1": 1040,
+        "vendas-mes-2": 2201,
+        "vendas-mes-3": 1830,
+        "codigo-descricao": "83356 - COMPLEXO B 50CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c2d",
+        "estoque-total": 114,
+        "vendas-mes-1": 35,
+        "vendas-mes-2": 48,
+        "vendas-mes-3": 64,
+        "codigo-descricao": "10278 - DIPIMED 500MG 50X4CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c2e",
+        "estoque-total": 3764,
+        "vendas-mes-1": 558,
+        "vendas-mes-2": 1663,
+        "vendas-mes-3": 1639,
+        "codigo-descricao": "10260 - DIPIMED GTS 10ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c2f",
+        "estoque-total": 23952,
+        "vendas-mes-1": 8205,
+        "vendas-mes-2": 16688,
+        "vendas-mes-3": 9549,
+        "codigo-descricao": "21725 - DIPIMED GTS 20ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c30",
+        "estoque-total": 4474,
+        "vendas-mes-1": 1341,
+        "vendas-mes-2": 2472,
+        "vendas-mes-3": 3132,
+        "codigo-descricao": "74268 - FLUCOVIL 150MG 1CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c31",
+        "estoque-total": 819,
+        "vendas-mes-1": 603,
+        "vendas-mes-2": 24,
+        "vendas-mes-3": 736,
+        "codigo-descricao": "66982 - FLOXIMED 400MG 14CPD (AM) EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c32",
+        "estoque-total": 1301,
+        "vendas-mes-1": 475,
+        "vendas-mes-2": 1276,
+        "vendas-mes-3": 510,
+        "codigo-descricao": "74276 - FLUCOVIL 150MG 2CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c33",
+        "estoque-total": 3717,
+        "vendas-mes-1": 1165,
+        "vendas-mes-2": 1716,
+        "vendas-mes-3": 1629,
+        "codigo-descricao": "10200 - GASTROGEL SUSP ORAL 150ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c34",
+        "estoque-total": 31,
+        "vendas-mes-1": 52,
+        "vendas-mes-2": 5,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "103578 - GRIPINEW 25X6CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c35",
+        "estoque-total": 6061,
+        "vendas-mes-1": 1196,
+        "vendas-mes-2": 1458,
+        "vendas-mes-3": 5609,
+        "codigo-descricao": "66990 - GLICONIL 5MG 30CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c36",
+        "estoque-total": 343,
+        "vendas-mes-1": 115,
+        "vendas-mes-2": 194,
+        "vendas-mes-3": 185,
+        "codigo-descricao": "84816 - GRIPINEW 20CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c37",
+        "estoque-total": 141,
+        "vendas-mes-1": 120,
+        "vendas-mes-2": 28,
+        "vendas-mes-3": 74,
+        "codigo-descricao": "121274 - IBUPROMED 50MG/ML GTS 30ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c38",
+        "estoque-total": 0,
+        "vendas-mes-1": 812,
+        "vendas-mes-2": 86,
+        "vendas-mes-3": 106,
+        "codigo-descricao": "121266 - IBUPROMED 100MG/ML GTS 20ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c39",
+        "estoque-total": 896,
+        "vendas-mes-1": 672,
+        "vendas-mes-2": 707,
+        "vendas-mes-3": 705,
+        "codigo-descricao": "10286 - INFLAMEX 50MG 20CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c3a",
+        "estoque-total": 69,
+        "vendas-mes-1": 31,
+        "vendas-mes-2": 76,
+        "vendas-mes-3": 24,
+        "codigo-descricao": "10162 - IODOFLUX XPE 100ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c3b",
+        "estoque-total": 128,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "104043 - LIVGAS 40MG 20CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c3c",
+        "estoque-total": 80,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "103608 - HIDROFLUX 25MG 60CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c3d",
+        "estoque-total": 205,
+        "vendas-mes-1": 14,
+        "vendas-mes-2": 18,
+        "vendas-mes-3": 4,
+        "codigo-descricao": "81221 - LIVGAS CEREJA 75MG/ML GTS 15ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c3e",
+        "estoque-total": 850,
+        "vendas-mes-1": 414,
+        "vendas-mes-2": 555,
+        "vendas-mes-3": 763,
+        "codigo-descricao": "10219 - GASTROGEL 20CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c3f",
+        "estoque-total": 464,
+        "vendas-mes-1": 806,
+        "vendas-mes-2": 159,
+        "vendas-mes-3": 269,
+        "codigo-descricao": "46426 - FUNGONAZOL SHAMP ANTI CASPA 100ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c40",
+        "estoque-total": 150,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 50,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "10014 - MEDTRIM 200MG SUSP ORAL 100ML (AM) MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c41",
+        "estoque-total": 2553,
+        "vendas-mes-1": 159,
+        "vendas-mes-2": 1131,
+        "vendas-mes-3": 1433,
+        "codigo-descricao": "83372 - NASALFLUX 0,5MG/ML SOL NASAL 30ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c42",
+        "estoque-total": 39879,
+        "vendas-mes-1": 16199,
+        "vendas-mes-2": 7480,
+        "vendas-mes-3": 17342,
+        "codigo-descricao": "23329 - NIFEDIPRESS RETARD 20MG 30CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c43",
+        "estoque-total": 107,
+        "vendas-mes-1": 3,
+        "vendas-mes-2": 44,
+        "vendas-mes-3": 66,
+        "codigo-descricao": "10103 - PRESSOFLUX 40MG 40CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c44",
+        "estoque-total": 1188,
+        "vendas-mes-1": 1230,
+        "vendas-mes-2": 309,
+        "vendas-mes-3": 150,
+        "codigo-descricao": "10243 - PRESSOMEDE 10MG 30CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c45",
+        "estoque-total": 706,
+        "vendas-mes-1": 210,
+        "vendas-mes-2": 340,
+        "vendas-mes-3": 611,
+        "codigo-descricao": "103594 - HIDROFLUX 25MG 30CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c46",
+        "estoque-total": 101,
+        "vendas-mes-1": 98,
+        "vendas-mes-2": 54,
+        "vendas-mes-3": 46,
+        "codigo-descricao": "10235 - PRESSOMEDE 20MG 30CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c47",
+        "estoque-total": 179,
+        "vendas-mes-1": 98,
+        "vendas-mes-2": 192,
+        "vendas-mes-3": 110,
+        "codigo-descricao": "10081 - RANITIDIL 150MG 10CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c48",
+        "estoque-total": 1298,
+        "vendas-mes-1": 1322,
+        "vendas-mes-2": 922,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "33804 - RANITIDIL 150MG 20CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c49",
+        "estoque-total": 1035,
+        "vendas-mes-1": 150,
+        "vendas-mes-2": 356,
+        "vendas-mes-3": 6,
+        "codigo-descricao": "106569 - PRESSTOPRIL 25MG 30CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c4a",
+        "estoque-total": 1678,
+        "vendas-mes-1": 588,
+        "vendas-mes-2": 775,
+        "vendas-mes-3": 1032,
+        "codigo-descricao": "13412 - TENOXIL 20MG 10CPD EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c4b",
+        "estoque-total": 2143,
+        "vendas-mes-1": 651,
+        "vendas-mes-2": 392,
+        "vendas-mes-3": 57,
+        "codigo-descricao": "14249 - TYLAFLEX GTS 15ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c4c",
+        "estoque-total": 76,
+        "vendas-mes-1": 40,
+        "vendas-mes-2": 50,
+        "vendas-mes-3": 43,
+        "codigo-descricao": "103586 - TETRAMED 500MG 25X4CAP (AM) EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c4d",
+        "estoque-total": 4632,
+        "vendas-mes-1": 2240,
+        "vendas-mes-2": 1692,
+        "vendas-mes-3": 2202,
+        "codigo-descricao": "15270 - VITAMINA C 20CPD MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c4e",
+        "estoque-total": 271,
+        "vendas-mes-1": 135,
+        "vendas-mes-2": 153,
+        "vendas-mes-3": 124,
+        "codigo-descricao": "9997 - TETRAMED 500MG 10X10CAP (AM) EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c4f",
+        "estoque-total": 3600,
+        "vendas-mes-1": 3248,
+        "vendas-mes-2": 1270,
+        "vendas-mes-3": 1994,
+        "codigo-descricao": "15261 - VITAMINA C GTS 20ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c50",
+        "estoque-total": 349,
+        "vendas-mes-1": 81,
+        "vendas-mes-2": 180,
+        "vendas-mes-3": 190,
+        "codigo-descricao": "23302 - VOMISTOP GTS 10ML EQ MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c51",
+        "estoque-total": 300,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "74241 - HIDROXIMED SUSP 240ML MDQ",
+        "codigo-cliente": "992",
+        "nome-cliente": "EMEFARMA"
+      },
+      {
+        "_id": "577a59712c771a90562f8c52",
+        "estoque-total": 56,
+        "vendas-mes-1": 6,
+        "vendas-mes-2": 6,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "16829 - AEROMED XPE 120ML  GP",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c53",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "61506 - ALIVGL?S POM 45GR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c54",
+        "estoque-total": 650,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 36,
+        "vendas-mes-3": 430,
+        "codigo-descricao": "38270 - AS-MED INFANTIL  100MG 20X10CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c55",
+        "estoque-total": 206,
+        "vendas-mes-1": 10,
+        "vendas-mes-2": 32,
+        "vendas-mes-3": 26,
+        "codigo-descricao": "63525 - ASSEPMED 1%  ESPAT SOL  30ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c56",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "42870 - ATROVEX  100CPS 25X4   GP",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c57",
+        "estoque-total": 54,
+        "vendas-mes-1": 15,
+        "vendas-mes-2": 17,
+        "vendas-mes-3": 3,
+        "codigo-descricao": "63517 - ASSEPMED 1%  SPRAY 50ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c58",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "61700 - ALIVGL?S BABY POM 45GR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c59",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "16845 - ATROVEX 20CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c5a",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "16853 - ATROVEX GTS 20ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c5b",
+        "estoque-total": 1032,
+        "vendas-mes-1": 1002,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 696,
+        "codigo-descricao": "38288 - AZITROMED 500MG 3CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c5c",
+        "estoque-total": 1000,
+        "vendas-mes-1": 236,
+        "vendas-mes-2": 126,
+        "vendas-mes-3": 319,
+        "codigo-descricao": "77925 - AZITROMICINA 500MG 3CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c5d",
+        "estoque-total": 32,
+        "vendas-mes-1": 22,
+        "vendas-mes-2": 17,
+        "vendas-mes-3": 16,
+        "codigo-descricao": "68420 - BOLDOBEBA 60FLAC 10ML S/A?UCAR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c5e",
+        "estoque-total": 39,
+        "vendas-mes-1": 8,
+        "vendas-mes-2": 8,
+        "vendas-mes-3": 10,
+        "codigo-descricao": "48658 - CARBOCISTEINA XPE ADUL100ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c5f",
+        "estoque-total": 40,
+        "vendas-mes-1": 9,
+        "vendas-mes-2": 5,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "48640 - CARBOCISTEINA XPE INF 100ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c60",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "42277 - CEFALINA 100CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c61",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "16888 - CEFALINA 20CPR   GP",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c62",
+        "estoque-total": 1196,
+        "vendas-mes-1": 714,
+        "vendas-mes-2": 710,
+        "vendas-mes-3": 715,
+        "codigo-descricao": "49557 - CLOR RANITIDINA 150MG 20CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c63",
+        "estoque-total": 46,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "45985 - CLOR TETRACICLINA 500MG 80CPS-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c64",
+        "estoque-total": 83,
+        "vendas-mes-1": 21,
+        "vendas-mes-2": 30,
+        "vendas-mes-3": 67,
+        "codigo-descricao": "45993 - CLOR TETRACICLINA 500MG 8CPS-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c65",
+        "estoque-total": 432,
+        "vendas-mes-1": 136,
+        "vendas-mes-2": 166,
+        "vendas-mes-3": 193,
+        "codigo-descricao": "16918 - COMPLEXO B SOL 100ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c66",
+        "estoque-total": 200,
+        "vendas-mes-1": 24,
+        "vendas-mes-2": 43,
+        "vendas-mes-3": 29,
+        "codigo-descricao": "16942 - DELTAMETRIL SHAMPOO 100ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c67",
+        "estoque-total": 559,
+        "vendas-mes-1": 36,
+        "vendas-mes-2": 375,
+        "vendas-mes-3": 337,
+        "codigo-descricao": "16950 - DIPIMED 500MG 50X4CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c68",
+        "estoque-total": 216,
+        "vendas-mes-1": 50,
+        "vendas-mes-2": 69,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "68241 - DIPIMED 500MG 20X10CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c69",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "49549 - CLOR RANITIDINA 150MG 10CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c6a",
+        "estoque-total": 73,
+        "vendas-mes-1": 17,
+        "vendas-mes-2": 31,
+        "vendas-mes-3": 46,
+        "codigo-descricao": "58319 - CLOR RANITIDINA 150MG 60CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c6b",
+        "estoque-total": 788,
+        "vendas-mes-1": 332,
+        "vendas-mes-2": 303,
+        "vendas-mes-3": 837,
+        "codigo-descricao": "54631 - COMPLEXO B 100CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c6c",
+        "estoque-total": 16694,
+        "vendas-mes-1": 9037,
+        "vendas-mes-2": 6370,
+        "vendas-mes-3": 10050,
+        "codigo-descricao": "16985 - DIPIMED 500MG GTS 20ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c6d",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "51128 - DIPIRONA GTS 20ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c6e",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "61514 - ESPIMED GEL 5% 20G",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c6f",
+        "estoque-total": 5100,
+        "vendas-mes-1": 533,
+        "vendas-mes-2": 466,
+        "vendas-mes-3": 159,
+        "codigo-descricao": "77780 - FLUCONAZOL 150MG 1CPR- MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c70",
+        "estoque-total": 132,
+        "vendas-mes-1": 198,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 95,
+        "codigo-descricao": "17132 - FLOXIMED 400MG 14CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c71",
+        "estoque-total": 881,
+        "vendas-mes-1": 370,
+        "vendas-mes-2": 209,
+        "vendas-mes-3": 544,
+        "codigo-descricao": "59277 - FLUCOVIL 150MG 1CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c72",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "42650 - FUNGISTATINA-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c73",
+        "estoque-total": 1000,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "68500 - FLUCOVIL 150MG 2CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c74",
+        "estoque-total": 145,
+        "vendas-mes-1": 67,
+        "vendas-mes-2": 84,
+        "vendas-mes-3": 90,
+        "codigo-descricao": "50180 - FUNGONAZOL SHAMPO 100ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c75",
+        "estoque-total": 299,
+        "vendas-mes-1": 126,
+        "vendas-mes-2": 187,
+        "vendas-mes-3": 141,
+        "codigo-descricao": "17140 - GASTROGEL 20CPR MAST",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c76",
+        "estoque-total": 650,
+        "vendas-mes-1": 290,
+        "vendas-mes-2": 297,
+        "vendas-mes-3": 333,
+        "codigo-descricao": "17159 - GASTROGEL SUS 150ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c77",
+        "estoque-total": 43,
+        "vendas-mes-1": 27,
+        "vendas-mes-2": 69,
+        "vendas-mes-3": 26,
+        "codigo-descricao": "17183 - GRIPINEW 20DRG     GP",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c78",
+        "estoque-total": 2653,
+        "vendas-mes-1": 831,
+        "vendas-mes-2": 578,
+        "vendas-mes-3": 1170,
+        "codigo-descricao": "43230 - GLICONIL 5MG 30CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c79",
+        "estoque-total": 105,
+        "vendas-mes-1": 49,
+        "vendas-mes-2": 11,
+        "vendas-mes-3": 8,
+        "codigo-descricao": "56618 - GRIPINEW 25X6 CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c7a",
+        "estoque-total": 248,
+        "vendas-mes-1": 79,
+        "vendas-mes-2": 83,
+        "vendas-mes-3": 65,
+        "codigo-descricao": "48372 - HIDROXIMED 240ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c7b",
+        "estoque-total": 7025,
+        "vendas-mes-1": 5137,
+        "vendas-mes-2": 2359,
+        "vendas-mes-3": 3761,
+        "codigo-descricao": "69280 - HIDROCLOROTIAZIDA 25MG 30CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c7c",
+        "estoque-total": 257,
+        "vendas-mes-1": 36,
+        "vendas-mes-2": 66,
+        "vendas-mes-3": 150,
+        "codigo-descricao": "59285 - HIDROFLUX 25MG 30CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c7d",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "53830 - IBUPROFENO 200MG 20CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c7e",
+        "estoque-total": 727,
+        "vendas-mes-1": 221,
+        "vendas-mes-2": 349,
+        "vendas-mes-3": 416,
+        "codigo-descricao": "54321 - COMPLEXO B 50CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c7f",
+        "estoque-total": 2036,
+        "vendas-mes-1": 642,
+        "vendas-mes-2": 516,
+        "vendas-mes-3": 596,
+        "codigo-descricao": "51632 - IBUPROFENO 100MG GTS 20ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c80",
+        "estoque-total": 10006,
+        "vendas-mes-1": 3307,
+        "vendas-mes-2": 1793,
+        "vendas-mes-3": 12608,
+        "codigo-descricao": "16977 - DIPIMED 500MG GTS 10ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c81",
+        "estoque-total": 713,
+        "vendas-mes-1": 420,
+        "vendas-mes-2": 244,
+        "vendas-mes-3": 311,
+        "codigo-descricao": "75698 - CLOR HIDROXIZINA 2MG 100ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c82",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "67750 - IBUPROMED 400MG 100CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c83",
+        "estoque-total": 164,
+        "vendas-mes-1": 21,
+        "vendas-mes-2": 27,
+        "vendas-mes-3": 10,
+        "codigo-descricao": "42641 - AS-MED 500MG 200CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c84",
+        "estoque-total": 369,
+        "vendas-mes-1": 387,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 217,
+        "codigo-descricao": "51616 - IBUPROFENO 50MG GTS 30ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c85",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "53848 - IBUPROFENO 400MG 100CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c86",
+        "estoque-total": 200,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 87,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "68810 - IBUPROMED 100MG 20ML MORANGO",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c87",
+        "estoque-total": 200,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 183,
+        "vendas-mes-3": 50,
+        "codigo-descricao": "42676 - INFLAMEX SODICO 50MG 20CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c88",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 4,
+        "vendas-mes-3": 2,
+        "codigo-descricao": "17191 - IODOFLUX 2% XPE 100ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c89",
+        "estoque-total": 239,
+        "vendas-mes-1": 87,
+        "vendas-mes-2": 61,
+        "vendas-mes-3": 54,
+        "codigo-descricao": "75710 - LORATADINA 1MG/ML XPE 100ML - MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c8a",
+        "estoque-total": 126,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 44,
+        "vendas-mes-3": 12,
+        "codigo-descricao": "76147 - IBUPROMED 50MG SUSP 30ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c8b",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "44083 - MEDPRAZOL 20MG 28 CPS",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c8c",
+        "estoque-total": 81,
+        "vendas-mes-1": 20,
+        "vendas-mes-2": 27,
+        "vendas-mes-3": 48,
+        "codigo-descricao": "17230 - MEDTRIM 200MG SUS 100ML( SULFA+TRIMET)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c8d",
+        "estoque-total": 66,
+        "vendas-mes-1": 18,
+        "vendas-mes-2": 18,
+        "vendas-mes-3": 8,
+        "codigo-descricao": "53856 - MOTIVOL 100MG 30CPR (GINSENG)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c8e",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "53864 - MOTIVOL 100MG 60CPR ( GINSENG)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c8f",
+        "estoque-total": 48,
+        "vendas-mes-1": 8,
+        "vendas-mes-2": 10,
+        "vendas-mes-3": 33,
+        "codigo-descricao": "55743 - MEDCALL 600MG 60CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c90",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "68748 - MEDCALL 12 SUSP C/240 ML CHOCOLATE",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c91",
+        "estoque-total": 136,
+        "vendas-mes-1": 54,
+        "vendas-mes-2": 24,
+        "vendas-mes-3": 20,
+        "codigo-descricao": "55000 - NASALFREE 9MG/ML 50ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c92",
+        "estoque-total": 98,
+        "vendas-mes-1": 3,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 39,
+        "codigo-descricao": "51225 - LIVGAS 75MG 15ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c93",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "68551 - LIVGAS 40MG C/20 CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c94",
+        "estoque-total": 16,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 4,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "49956 - NOVRALFLEX  200CPR 20X10  PT",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c95",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "55948 - NALDEFLEX DIA C/100 CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c96",
+        "estoque-total": 7049,
+        "vendas-mes-1": 4006,
+        "vendas-mes-2": 2894,
+        "vendas-mes-3": 4846,
+        "codigo-descricao": "17353 - NIFEDIPRESS RETARD 20MG 30CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c97",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "53872 - PANTONAX 40MG 30CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c98",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 1,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "75728 - MEDCALL 500MG 60CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c99",
+        "estoque-total": 31,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 18,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "19330 - PRESSOFLUX 40MG 40CPR  GP",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c9a",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "17370 - PANTONAX 40MG 14CPS",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c9b",
+        "estoque-total": 45,
+        "vendas-mes-1": 6,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 15,
+        "codigo-descricao": "43117 - PRESSOMED 20MG 30CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c9c",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "55956 - NALDEFLEX DIA 24 CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c9d",
+        "estoque-total": 78,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 12,
+        "codigo-descricao": "75736 - PRESSTOPRIL 25MG 30CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c9e",
+        "estoque-total": 4000,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 1056,
+        "vendas-mes-3": 396,
+        "codigo-descricao": "75930 - PARACETAMOL 750MG 20CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8c9f",
+        "estoque-total": 2587,
+        "vendas-mes-1": 602,
+        "vendas-mes-2": 797,
+        "vendas-mes-3": 985,
+        "codigo-descricao": "51624 - PARACETAMOL GTS 15ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca0",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "58793 - NOVRALFLEX  200 CPR 50X4",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca1",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "61719 - PROCTOBEM POM 25 G",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca2",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "17507 - PRESSTOPRIL 25MG  28CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca3",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "56480 - SUPREMUS VIT 30CPS (SUPL VITAMINICO)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca4",
+        "estoque-total": 85,
+        "vendas-mes-1": 9,
+        "vendas-mes-2": 12,
+        "vendas-mes-3": 10,
+        "codigo-descricao": "43109 - PRESSOMED 10MG 30CPR (ENALAPRIL)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca5",
+        "estoque-total": 400,
+        "vendas-mes-1": 4,
+        "vendas-mes-2": 159,
+        "vendas-mes-3": 79,
+        "codigo-descricao": "17523 - RANITIDIL 150MG 10CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca6",
+        "estoque-total": 400,
+        "vendas-mes-1": 38,
+        "vendas-mes-2": 178,
+        "vendas-mes-3": 115,
+        "codigo-descricao": "17558 - RANITIDIL 150MG 20CPR  PT",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca7",
+        "estoque-total": 300,
+        "vendas-mes-1": 76,
+        "vendas-mes-2": 201,
+        "vendas-mes-3": 128,
+        "codigo-descricao": "17574 - TENOXIL 20MG 10CPR  (TENOXICAN)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca8",
+        "estoque-total": 1084,
+        "vendas-mes-1": 500,
+        "vendas-mes-2": 458,
+        "vendas-mes-3": 565,
+        "codigo-descricao": "51136 - SIMETICONA 75MG 15ML-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8ca9",
+        "estoque-total": 135,
+        "vendas-mes-1": 64,
+        "vendas-mes-2": 71,
+        "vendas-mes-3": 115,
+        "codigo-descricao": "53902 - TETRAMED 500MG 100CPR  10 X 10",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8caa",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "43125 - TYLAFLEX 750MG 12CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cab",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "56626 - SUPREMUS VIT 60CPR (SUPL VITAMINICO)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cac",
+        "estoque-total": 72,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "17604 - TYLAFLEX 750MG  200CPR",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cad",
+        "estoque-total": 300,
+        "vendas-mes-1": 106,
+        "vendas-mes-2": 225,
+        "vendas-mes-3": 169,
+        "codigo-descricao": "77798 - TENOXICAM 20MG 10CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cae",
+        "estoque-total": 122,
+        "vendas-mes-1": 18,
+        "vendas-mes-2": 48,
+        "vendas-mes-3": 72,
+        "codigo-descricao": "17302 - MEDTONICO SOL FRS  420ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8caf",
+        "estoque-total": 78,
+        "vendas-mes-1": 6,
+        "vendas-mes-2": 109,
+        "vendas-mes-3": 93,
+        "codigo-descricao": "17612 - TYLAFLEX GTS 15ML",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb0",
+        "estoque-total": 83,
+        "vendas-mes-1": 31,
+        "vendas-mes-2": 41,
+        "vendas-mes-3": 58,
+        "codigo-descricao": "17582 - TETRAMED 500MG 100CPR 25X4 (TETRACICL)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb1",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "17566 - RANITIDIL 300MG 8CPR  PT",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb2",
+        "estoque-total": 700,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "54550 - SIMETICONA 40MG 20CPR-MEDQUIMICA",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb3",
+        "estoque-total": 1020,
+        "vendas-mes-1": 326,
+        "vendas-mes-2": 368,
+        "vendas-mes-3": 424,
+        "codigo-descricao": "17701 - VITAMINA C 500MG 20CPR-MEDQUIM",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb4",
+        "estoque-total": 1396,
+        "vendas-mes-1": 660,
+        "vendas-mes-2": 344,
+        "vendas-mes-3": 377,
+        "codigo-descricao": "17728 - VITAMINA C GTS 20ML-MEDQUIM",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb5",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "17760 - VOMISTOP 20CPR (METOCLOPRAMIDA+VIT B6)",
+        "codigo-cliente": "1114",
+        "nome-cliente": "JOMARGIL"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb6",
+        "estoque-total": 3426,
+        "vendas-mes-1": 1788,
+        "vendas-mes-2": 102,
+        "vendas-mes-3": 306,
+        "codigo-descricao": "626856 - CAPTOPRIL 25MG C/ 30CPR (MEDQ)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb7",
+        "estoque-total": 882,
+        "vendas-mes-1": 78,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "626872 - CAPTOPRIL 25MG C/ 60CPR (MEDQ)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb8",
+        "estoque-total": 563,
+        "vendas-mes-1": 217,
+        "vendas-mes-2": 126,
+        "vendas-mes-3": 47,
+        "codigo-descricao": "546453 - CARBOCISTEINA  ADT 50MG/ML C/100ML (MEDQ.",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cb9",
+        "estoque-total": 536,
+        "vendas-mes-1": 167,
+        "vendas-mes-2": 28,
+        "vendas-mes-3": 101,
+        "codigo-descricao": "546470 - CARBOCISTEINA INF 20MG/ML C/100ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cba",
+        "estoque-total": 9473,
+        "vendas-mes-1": 659,
+        "vendas-mes-2": 386,
+        "vendas-mes-3": 552,
+        "codigo-descricao": "624357 - AZITROMICINA DI-HIDRATADA 500MG C/ 3CPR (",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cbb",
+        "estoque-total": 3231,
+        "vendas-mes-1": 1213,
+        "vendas-mes-2": 1049,
+        "vendas-mes-3": 1571,
+        "codigo-descricao": "594830 - CLOR HIDROXIZINA 2MG C/100ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cbc",
+        "estoque-total": 1000,
+        "vendas-mes-1": 605,
+        "vendas-mes-2": 516,
+        "vendas-mes-3": 545,
+        "codigo-descricao": "546429 - CLOR RANITIDINA 150MG C/60CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cbd",
+        "estoque-total": 3172,
+        "vendas-mes-1": 1741,
+        "vendas-mes-2": 2387,
+        "vendas-mes-3": 3210,
+        "codigo-descricao": "546445 - CLOR RANITIDINA 150MG C/20CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cbe",
+        "estoque-total": 64,
+        "vendas-mes-1": 11,
+        "vendas-mes-2": 13,
+        "vendas-mes-3": 15,
+        "codigo-descricao": "534609 - CLOR TETRACICLINA 500MG C/80CAPS (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cbf",
+        "estoque-total": 928,
+        "vendas-mes-1": 248,
+        "vendas-mes-2": 124,
+        "vendas-mes-3": 591,
+        "codigo-descricao": "534595 - CLOR TETRACICLINA 500MG C/8CAPS (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc0",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "562769 - DIPIRONA SOD 500MG C/20ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc1",
+        "estoque-total": 14394,
+        "vendas-mes-1": 11071,
+        "vendas-mes-2": 5454,
+        "vendas-mes-3": 6071,
+        "codigo-descricao": "601039 - HIDROCLOROTIAZIDA 25MG C/30CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc2",
+        "estoque-total": 3084,
+        "vendas-mes-1": 2041,
+        "vendas-mes-2": 1634,
+        "vendas-mes-3": 2155,
+        "codigo-descricao": "624373 - FLUCONAZOL 150MG C/2CAPS (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc3",
+        "estoque-total": 279,
+        "vendas-mes-1": 58,
+        "vendas-mes-2": 55,
+        "vendas-mes-3": 74,
+        "codigo-descricao": "601047 - HIDROCLOROTIAZIDA 25MG C/60CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc4",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "560537 - IBUPROFENO 200MG C/20CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc5",
+        "estoque-total": 139,
+        "vendas-mes-1": 165,
+        "vendas-mes-2": 53,
+        "vendas-mes-3": 60,
+        "codigo-descricao": "560529 - IBUPROFENO 400MG C/20CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc6",
+        "estoque-total": 1218,
+        "vendas-mes-1": 672,
+        "vendas-mes-2": 884,
+        "vendas-mes-3": 823,
+        "codigo-descricao": "560553 - IBUPROFENO GTS 50MG C/30ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc7",
+        "estoque-total": 951,
+        "vendas-mes-1": 560,
+        "vendas-mes-2": 255,
+        "vendas-mes-3": 281,
+        "codigo-descricao": "611875 - LORATADINA 1 MG/ML C/100ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc8",
+        "estoque-total": 4182,
+        "vendas-mes-1": 2605,
+        "vendas-mes-2": 2121,
+        "vendas-mes-3": 1850,
+        "codigo-descricao": "560545 - IBUPROFENO GTS 100MG C/20ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cc9",
+        "estoque-total": 7800,
+        "vendas-mes-1": 2895,
+        "vendas-mes-2": 2392,
+        "vendas-mes-3": 6883,
+        "codigo-descricao": "624365 - FLUCONAZOL 150MG C/1CAPS (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cca",
+        "estoque-total": 5080,
+        "vendas-mes-1": 1986,
+        "vendas-mes-2": 3210,
+        "vendas-mes-3": 2721,
+        "codigo-descricao": "546461 - PARACETAMOL 200MG GTS C/15ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ccb",
+        "estoque-total": 4,
+        "vendas-mes-1": 2,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "600814 - PARACETAMOL 750MG C/200CPR (20X10) (MEDQ.",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ccc",
+        "estoque-total": 13200,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 9827,
+        "vendas-mes-3": 6556,
+        "codigo-descricao": "600806 - PARACETAMOL 750MG C/20CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ccd",
+        "estoque-total": 1190,
+        "vendas-mes-1": 1068,
+        "vendas-mes-2": 303,
+        "vendas-mes-3": 1102,
+        "codigo-descricao": "565636 - SIMETICONA 40MG C/20CPR (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cce",
+        "estoque-total": 2700,
+        "vendas-mes-1": 1693,
+        "vendas-mes-2": 1902,
+        "vendas-mes-3": 1811,
+        "codigo-descricao": "565628 - SIMETICONA GTS C/15ML (MEDQ.)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ccf",
+        "estoque-total": 2210,
+        "vendas-mes-1": 1073,
+        "vendas-mes-2": 503,
+        "vendas-mes-3": 1105,
+        "codigo-descricao": "18830 - AS-MED 100MG INF C/200CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd0",
+        "estoque-total": 196,
+        "vendas-mes-1": 52,
+        "vendas-mes-2": 40,
+        "vendas-mes-3": 48,
+        "codigo-descricao": "6050 - AEROMED XPE C/120ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd1",
+        "estoque-total": 123,
+        "vendas-mes-1": 75,
+        "vendas-mes-2": 33,
+        "vendas-mes-3": 36,
+        "codigo-descricao": "6157 - AS-MED 500MG AD C/200CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd2",
+        "estoque-total": 473,
+        "vendas-mes-1": 40,
+        "vendas-mes-2": 231,
+        "vendas-mes-3": 170,
+        "codigo-descricao": "582719 - ASSEPMED 1% ESPATULA 30ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd3",
+        "estoque-total": 5125,
+        "vendas-mes-1": 3957,
+        "vendas-mes-2": 3428,
+        "vendas-mes-3": 3247,
+        "codigo-descricao": "537985 - AZITROMED 500MG 3CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd4",
+        "estoque-total": 819,
+        "vendas-mes-1": 296,
+        "vendas-mes-2": 321,
+        "vendas-mes-3": 324,
+        "codigo-descricao": "582700 - ASSEPMED 1% SPRAY 50ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd5",
+        "estoque-total": 72,
+        "vendas-mes-1": 49,
+        "vendas-mes-2": 31,
+        "vendas-mes-3": 58,
+        "codigo-descricao": "578347 - BOLDOBEBA 10ML C/60 FLAC",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd6",
+        "estoque-total": 307,
+        "vendas-mes-1": 37,
+        "vendas-mes-2": 6,
+        "vendas-mes-3": 9,
+        "codigo-descricao": "625426 - CALCIMED B-12 C/ 240 ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd7",
+        "estoque-total": 857,
+        "vendas-mes-1": 169,
+        "vendas-mes-2": 202,
+        "vendas-mes-3": 564,
+        "codigo-descricao": "5908 - COMPLEXO B MED C/100ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd8",
+        "estoque-total": 2083,
+        "vendas-mes-1": 1481,
+        "vendas-mes-2": 1008,
+        "vendas-mes-3": 1087,
+        "codigo-descricao": "561592 - COMPLEXO B MED C/100CPR REV",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cd9",
+        "estoque-total": 2551,
+        "vendas-mes-1": 1642,
+        "vendas-mes-2": 1202,
+        "vendas-mes-3": 2386,
+        "codigo-descricao": "561584 - COMPLEXO B MED C/50 CPR REV",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cda",
+        "estoque-total": 600,
+        "vendas-mes-1": 42,
+        "vendas-mes-2": 119,
+        "vendas-mes-3": 266,
+        "codigo-descricao": "601055 - DIPIMED 500MG C/200CP (20X10)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cdb",
+        "estoque-total": 1101,
+        "vendas-mes-1": 458,
+        "vendas-mes-2": 284,
+        "vendas-mes-3": 199,
+        "codigo-descricao": "6327 - DELTAMETRIL SHA C/100ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cdc",
+        "estoque-total": 7414,
+        "vendas-mes-1": 5261,
+        "vendas-mes-2": 3371,
+        "vendas-mes-3": 1696,
+        "codigo-descricao": "20052 - DIPIMED GTS C/10ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cdd",
+        "estoque-total": 30600,
+        "vendas-mes-1": 36971,
+        "vendas-mes-2": 8071,
+        "vendas-mes-3": 36450,
+        "codigo-descricao": "22497 - DIPIMED GTS C/20ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cde",
+        "estoque-total": 3318,
+        "vendas-mes-1": 1778,
+        "vendas-mes-2": 1435,
+        "vendas-mes-3": 1203,
+        "codigo-descricao": "6149 - FLOXIMED 400MG CX.C/14 COMP.REV.",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cdf",
+        "estoque-total": 2685,
+        "vendas-mes-1": 580,
+        "vendas-mes-2": 931,
+        "vendas-mes-3": 288,
+        "codigo-descricao": "27758 - FLUCOVIL 150MG C/2CAPS",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce0",
+        "estoque-total": 9786,
+        "vendas-mes-1": 4243,
+        "vendas-mes-2": 3853,
+        "vendas-mes-3": 5580,
+        "codigo-descricao": "6246 - FLUCOVIL 150MG C/01CAP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce1",
+        "estoque-total": 10200,
+        "vendas-mes-1": 4817,
+        "vendas-mes-2": 5247,
+        "vendas-mes-3": 6896,
+        "codigo-descricao": "6343 - GLICONIL 5,0MG C/30 CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce2",
+        "estoque-total": 2513,
+        "vendas-mes-1": 1138,
+        "vendas-mes-2": 711,
+        "vendas-mes-3": 340,
+        "codigo-descricao": "538108 - GRIPINEW C C/ 20DRG",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce3",
+        "estoque-total": 210,
+        "vendas-mes-1": 82,
+        "vendas-mes-2": 53,
+        "vendas-mes-3": 50,
+        "codigo-descricao": "573450 - GRIPINEW C DRG HOSP C/150 COMP (25X6)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce4",
+        "estoque-total": 401,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 299,
+        "vendas-mes-3": 143,
+        "codigo-descricao": "574902 - HIDROFLUX 25MG C/60CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce5",
+        "estoque-total": 83,
+        "vendas-mes-1": 20,
+        "vendas-mes-2": 54,
+        "vendas-mes-3": 24,
+        "codigo-descricao": "6033 - HIDROFLUX 50MG C/20CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce6",
+        "estoque-total": 817,
+        "vendas-mes-1": 84,
+        "vendas-mes-2": 176,
+        "vendas-mes-3": 277,
+        "codigo-descricao": "543179 - HIDROXIMED 6%  LIQ 240ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce7",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "590797 - IBUPROMED 400MG C/100CPR (10X10)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce8",
+        "estoque-total": 400,
+        "vendas-mes-1": 136,
+        "vendas-mes-2": 213,
+        "vendas-mes-3": 321,
+        "codigo-descricao": "590770 - IBUPROMED 100MG FR C/20ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ce9",
+        "estoque-total": 378,
+        "vendas-mes-1": 110,
+        "vendas-mes-2": 65,
+        "vendas-mes-3": 96,
+        "codigo-descricao": "590762 - IBUPROMED 50MG FR C/30ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cea",
+        "estoque-total": 1302,
+        "vendas-mes-1": 343,
+        "vendas-mes-2": 174,
+        "vendas-mes-3": 186,
+        "codigo-descricao": "6254 - INFLAMEX SODICO 50MG 20CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ceb",
+        "estoque-total": 154,
+        "vendas-mes-1": 39,
+        "vendas-mes-2": 16,
+        "vendas-mes-3": 19,
+        "codigo-descricao": "5878 - IODOFLUX XPE C/100ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cec",
+        "estoque-total": 2323,
+        "vendas-mes-1": 1150,
+        "vendas-mes-2": 991,
+        "vendas-mes-3": 1090,
+        "codigo-descricao": "5851 - GASTROGEL C/20CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8ced",
+        "estoque-total": 730,
+        "vendas-mes-1": 210,
+        "vendas-mes-2": 158,
+        "vendas-mes-3": 36,
+        "codigo-descricao": "585009 - LIVGAS 40MG C/20CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cee",
+        "estoque-total": 528,
+        "vendas-mes-1": 240,
+        "vendas-mes-2": 61,
+        "vendas-mes-3": 108,
+        "codigo-descricao": "582409 - MEDCALL 500MG C/60CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cef",
+        "estoque-total": 1367,
+        "vendas-mes-1": 950,
+        "vendas-mes-2": 625,
+        "vendas-mes-3": 755,
+        "codigo-descricao": "564958 - MEDCALL 600MG C/60CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf0",
+        "estoque-total": 240,
+        "vendas-mes-1": 60,
+        "vendas-mes-2": 12,
+        "vendas-mes-3": 230,
+        "codigo-descricao": "6416 - MEDTOM 420ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf1",
+        "estoque-total": 769,
+        "vendas-mes-1": 146,
+        "vendas-mes-2": 111,
+        "vendas-mes-3": 176,
+        "codigo-descricao": "565610 - LIVGAS GTS C/15ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf2",
+        "estoque-total": 665,
+        "vendas-mes-1": 230,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 225,
+        "codigo-descricao": "6122 - MEDTRIM 200MG C/100ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf3",
+        "estoque-total": 1017,
+        "vendas-mes-1": 136,
+        "vendas-mes-2": 12,
+        "vendas-mes-3": 38,
+        "codigo-descricao": "614521 - MEGAVITAL C/ 30CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf4",
+        "estoque-total": 283,
+        "vendas-mes-1": 14,
+        "vendas-mes-2": 5,
+        "vendas-mes-3": 8,
+        "codigo-descricao": "563722 - MOTIVOL 100MG C/30CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf5",
+        "estoque-total": 300,
+        "vendas-mes-1": 125,
+        "vendas-mes-2": 121,
+        "vendas-mes-3": 266,
+        "codigo-descricao": "5800 - DIPIMED 500MG C/200CP (50X4)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf6",
+        "estoque-total": 2431,
+        "vendas-mes-1": 1564,
+        "vendas-mes-2": 1200,
+        "vendas-mes-3": 1927,
+        "codigo-descricao": "5860 - GASTROGEL SUSP C/150ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf7",
+        "estoque-total": 1430,
+        "vendas-mes-1": 1311,
+        "vendas-mes-2": 691,
+        "vendas-mes-3": 759,
+        "codigo-descricao": "27766 - FUNGONAZOL SHA C/100ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf8",
+        "estoque-total": 3505,
+        "vendas-mes-1": 1982,
+        "vendas-mes-2": 1935,
+        "vendas-mes-3": 1755,
+        "codigo-descricao": "574899 - HIDROFLUX 25MG C/30CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cf9",
+        "estoque-total": 3696,
+        "vendas-mes-1": 1401,
+        "vendas-mes-2": 602,
+        "vendas-mes-3": 2039,
+        "codigo-descricao": "561606 - NASALFLUX SOL C/30ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cfa",
+        "estoque-total": 525,
+        "vendas-mes-1": 186,
+        "vendas-mes-2": 126,
+        "vendas-mes-3": 242,
+        "codigo-descricao": "538086 - NASALFREE SPRAY C/50ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cfb",
+        "estoque-total": 23975,
+        "vendas-mes-1": 18479,
+        "vendas-mes-2": 12437,
+        "vendas-mes-3": 18467,
+        "codigo-descricao": "22519 - NIFEDIPRESS RETARD 20MG C/30CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cfc",
+        "estoque-total": 286,
+        "vendas-mes-1": 6,
+        "vendas-mes-2": 28,
+        "vendas-mes-3": 33,
+        "codigo-descricao": "6068 - PRESSOFLUX 40MG C/40CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cfd",
+        "estoque-total": 87,
+        "vendas-mes-1": 49,
+        "vendas-mes-2": 37,
+        "vendas-mes-3": 22,
+        "codigo-descricao": "578320 - NITROFIGAN 10ML C/60 FLAC (ABACAXI)",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cfe",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "590789 - IBUPROMED 400MG C/30CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8cff",
+        "estoque-total": 5533,
+        "vendas-mes-1": 3123,
+        "vendas-mes-2": 1300,
+        "vendas-mes-3": 991,
+        "codigo-descricao": "5967 - PRESSOMED 10MG C/30CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d00",
+        "estoque-total": 528,
+        "vendas-mes-1": 191,
+        "vendas-mes-2": 116,
+        "vendas-mes-3": 286,
+        "codigo-descricao": "543160 - PRESSOMED 20MG C/30CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d01",
+        "estoque-total": 3746,
+        "vendas-mes-1": 9,
+        "vendas-mes-2": 6,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "538035 - PRESSTOPRIL 25MG 30 CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d02",
+        "estoque-total": 3265,
+        "vendas-mes-1": 1818,
+        "vendas-mes-2": 1250,
+        "vendas-mes-3": 2619,
+        "codigo-descricao": "32557 - RANITIDIL 150MG C/20CP REV",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d03",
+        "estoque-total": 983,
+        "vendas-mes-1": 390,
+        "vendas-mes-2": 249,
+        "vendas-mes-3": 287,
+        "codigo-descricao": "6203 - RANITIDIL 150MG C/10CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d04",
+        "estoque-total": 160,
+        "vendas-mes-1": 15,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 7,
+        "codigo-descricao": "571547 - SUPREMUS VIT C/ 30 COMP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d05",
+        "estoque-total": 800,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 200,
+        "vendas-mes-3": 573,
+        "codigo-descricao": "6211 - TENOXIL 20MG C/10CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d06",
+        "estoque-total": 752,
+        "vendas-mes-1": 306,
+        "vendas-mes-2": 251,
+        "vendas-mes-3": 377,
+        "codigo-descricao": "5932 - TETRAMED 500MG 10X10 CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d07",
+        "estoque-total": 4,
+        "vendas-mes-1": 7,
+        "vendas-mes-2": 4,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "569488 - TYLAFLEX 500MG C/125X4CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d08",
+        "estoque-total": 180,
+        "vendas-mes-1": 77,
+        "vendas-mes-2": 72,
+        "vendas-mes-3": 66,
+        "codigo-descricao": "536350 - TETRAMED 500MG 25X4 CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d09",
+        "estoque-total": 39,
+        "vendas-mes-1": 15,
+        "vendas-mes-2": 2,
+        "vendas-mes-3": 3,
+        "codigo-descricao": "37010 - TYLAFLEX 750MG C/200 (50X4) CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d0a",
+        "estoque-total": 2180,
+        "vendas-mes-1": 506,
+        "vendas-mes-2": 1078,
+        "vendas-mes-3": 1456,
+        "codigo-descricao": "5924 - VIT C 200MG C/20ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d0b",
+        "estoque-total": 1373,
+        "vendas-mes-1": 424,
+        "vendas-mes-2": 115,
+        "vendas-mes-3": 311,
+        "codigo-descricao": "6238 - TYLAFLEX GTS C/15ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d0c",
+        "estoque-total": 390,
+        "vendas-mes-1": 209,
+        "vendas-mes-2": 48,
+        "vendas-mes-3": 247,
+        "codigo-descricao": "6408 - VOMISTOP C/10ML",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d0d",
+        "estoque-total": 3300,
+        "vendas-mes-1": 1399,
+        "vendas-mes-2": 1134,
+        "vendas-mes-3": 1746,
+        "codigo-descricao": "5916 - VIT C MED 500MG C/20CP",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59712c771a90562f8d0e",
+        "estoque-total": 120,
+        "vendas-mes-1": 36,
+        "vendas-mes-2": 29,
+        "vendas-mes-3": 52,
+        "codigo-descricao": "569461 - NOVRALFLEX C/20X10CPR",
+        "codigo-cliente": "1404",
+        "nome-cliente": "RIO DROGS"
+      },
+      {
+        "_id": "577a59722c771a90562f8d0f",
+        "estoque-total": 70,
+        "vendas-mes-1": 78,
+        "vendas-mes-2": 3,
+        "vendas-mes-3": 2,
+        "codigo-descricao": "47511 - AS-MED 100MG 200CP (ACETILSALICILICO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d10",
+        "estoque-total": 0,
+        "vendas-mes-1": 17,
+        "vendas-mes-2": 13,
+        "vendas-mes-3": 20,
+        "codigo-descricao": "78867 - ASSEPMED 1% 30ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d11",
+        "estoque-total": 25,
+        "vendas-mes-1": 23,
+        "vendas-mes-2": 32,
+        "vendas-mes-3": 30,
+        "codigo-descricao": "47759 - AEROMED XPE 120 ML (SALBUTAMOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d12",
+        "estoque-total": 186,
+        "vendas-mes-1": 2,
+        "vendas-mes-2": 7,
+        "vendas-mes-3": 33,
+        "codigo-descricao": "78859 - ASSEPMED SPRAY 1% 50ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d13",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47538 - ATROVEX 20 CP",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d14",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47520 - ATROVEX GTS 20ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d15",
+        "estoque-total": 22,
+        "vendas-mes-1": 63,
+        "vendas-mes-2": 199,
+        "vendas-mes-3": 18,
+        "codigo-descricao": "65277 - BOLDOBEBA FLAC 60 UNID",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d16",
+        "estoque-total": 1134,
+        "vendas-mes-1": 327,
+        "vendas-mes-2": 453,
+        "vendas-mes-3": 622,
+        "codigo-descricao": "47767 - AZITROMED 500MG 3CP (AZITROMICINA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d17",
+        "estoque-total": 2,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47554 - CEFALINA 20 CP",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d18",
+        "estoque-total": 106,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "56367 - COMPLEXO B 100 CP (MEDQUIMICA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d19",
+        "estoque-total": 4,
+        "vendas-mes-1": 392,
+        "vendas-mes-2": 65,
+        "vendas-mes-3": 150,
+        "codigo-descricao": "47589 - COMPLEXO B SOL 100ML (MEDQUIMICA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d1a",
+        "estoque-total": 346,
+        "vendas-mes-1": 7,
+        "vendas-mes-2": 45,
+        "vendas-mes-3": 49,
+        "codigo-descricao": "47627 - DELTAMETRIL SHP 0,2MG/ML 100ML (DELTAMETR",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d1b",
+        "estoque-total": 76,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "56111 - COMPLEXO B CX 50 CP (MEDQUIMICA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d1c",
+        "estoque-total": 37,
+        "vendas-mes-1": 63,
+        "vendas-mes-2": 25,
+        "vendas-mes-3": 12,
+        "codigo-descricao": "47600 - DIPIMED 500MG 25X4CP (DIPIRONA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d1d",
+        "estoque-total": 62,
+        "vendas-mes-1": 27,
+        "vendas-mes-2": 22,
+        "vendas-mes-3": 27,
+        "codigo-descricao": "62839 - DIPIMED 500MG 50X4CP (DIPIRONA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d1e",
+        "estoque-total": 38919,
+        "vendas-mes-1": 2277,
+        "vendas-mes-2": 4339,
+        "vendas-mes-3": 8352,
+        "codigo-descricao": "47597 - DIPIMED 500MG GTS 10ML (DIPIRONA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d1f",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "72192 - ESPIMED 5% GEL 20G",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d20",
+        "estoque-total": 7,
+        "vendas-mes-1": 6,
+        "vendas-mes-2": 2,
+        "vendas-mes-3": 9,
+        "codigo-descricao": "47503 - AS-MED 500MG 200CP (AC. ACETILSALICILICO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d21",
+        "estoque-total": 8042,
+        "vendas-mes-1": 2736,
+        "vendas-mes-2": 1242,
+        "vendas-mes-3": 2206,
+        "codigo-descricao": "47805 - FLUCOVIL 150MG 1 CP (FLUCONAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d22",
+        "estoque-total": 673,
+        "vendas-mes-1": 101,
+        "vendas-mes-2": 162,
+        "vendas-mes-3": 298,
+        "codigo-descricao": "47791 - FLOXIMED 400MG 14CP (NORFLOXACINO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d23",
+        "estoque-total": 742,
+        "vendas-mes-1": 252,
+        "vendas-mes-2": 176,
+        "vendas-mes-3": 266,
+        "codigo-descricao": "47643 - GASTROGEL SUSP 150ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d24",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47651 - GRIPINEW 20CP",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d25",
+        "estoque-total": 161,
+        "vendas-mes-1": 50,
+        "vendas-mes-2": 44,
+        "vendas-mes-3": 29,
+        "codigo-descricao": "63223 - GRIPINEW 150 CP",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d26",
+        "estoque-total": 4031,
+        "vendas-mes-1": 1767,
+        "vendas-mes-2": 1733,
+        "vendas-mes-3": 995,
+        "codigo-descricao": "47848 - GLICONIL 5MG 30CP (GLIBENCLAMIDA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d27",
+        "estoque-total": 4830,
+        "vendas-mes-1": 1716,
+        "vendas-mes-2": 1405,
+        "vendas-mes-3": 1832,
+        "codigo-descricao": "63371 - HIDROFLUX 25MG 30CP (HIDROCLOROTIAZIDA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d28",
+        "estoque-total": 90,
+        "vendas-mes-1": 72,
+        "vendas-mes-2": 95,
+        "vendas-mes-3": 43,
+        "codigo-descricao": "47961 - HIDROFLUX 50MG 20CP (HIDROCLOROTIAZIDA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d29",
+        "estoque-total": 76,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "63231 - HIDROFLUX 25MG 60CP (HIDROCLOROTIAZIDA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d2a",
+        "estoque-total": 307,
+        "vendas-mes-1": 144,
+        "vendas-mes-2": 121,
+        "vendas-mes-3": 192,
+        "codigo-descricao": "77208 - IBUPROMED GTS 20ML (IBUPROFENO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d2b",
+        "estoque-total": 511,
+        "vendas-mes-1": 247,
+        "vendas-mes-2": 61,
+        "vendas-mes-3": 67,
+        "codigo-descricao": "47635 - GASTROGEL 20CP",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d2c",
+        "estoque-total": 5528,
+        "vendas-mes-1": 1510,
+        "vendas-mes-2": 1220,
+        "vendas-mes-3": 743,
+        "codigo-descricao": "47813 - FLUCOVIL 150MG 2CP (FLUCONAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d2d",
+        "estoque-total": 741,
+        "vendas-mes-1": 294,
+        "vendas-mes-2": 555,
+        "vendas-mes-3": 143,
+        "codigo-descricao": "47856 - INFLAMEX 50MG 20CP (DICLOF. SODICO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d2e",
+        "estoque-total": 500,
+        "vendas-mes-1": 130,
+        "vendas-mes-2": 178,
+        "vendas-mes-3": 97,
+        "codigo-descricao": "72206 - LIVGAS 40MG 20CP (SIMETICONA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d2f",
+        "estoque-total": 3763,
+        "vendas-mes-1": 437,
+        "vendas-mes-2": 476,
+        "vendas-mes-3": 851,
+        "codigo-descricao": "60801 - LIVGAS GTS 75MG/ML 15ML (SIMETICONA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d30",
+        "estoque-total": 240,
+        "vendas-mes-1": 182,
+        "vendas-mes-2": 97,
+        "vendas-mes-3": 112,
+        "codigo-descricao": "69299 - MEDCALL D3 500MG 60 CP (CARBONATO DE CALC",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d31",
+        "estoque-total": 1152,
+        "vendas-mes-1": 595,
+        "vendas-mes-2": 435,
+        "vendas-mes-3": 296,
+        "codigo-descricao": "57452 - MEDCALL D3 600MG 60 (CARBONATO DE CALCIO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d32",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47996 - MEDPRAZOL 20MG 28CP (OMEPRAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d33",
+        "estoque-total": 1,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 5,
+        "vendas-mes-3": 4,
+        "codigo-descricao": "77216 - IBUPROMED SUSP 30ML (IBUPROFENO)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d34",
+        "estoque-total": 153,
+        "vendas-mes-1": 11,
+        "vendas-mes-2": 20,
+        "vendas-mes-3": 82,
+        "codigo-descricao": "47686 - MEDTOM FR 420ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d35",
+        "estoque-total": 1390,
+        "vendas-mes-1": 110,
+        "vendas-mes-2": 222,
+        "vendas-mes-3": 641,
+        "codigo-descricao": "47899 - MEDTRIM SUSP 200MG + 40MG 100ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d36",
+        "estoque-total": 978,
+        "vendas-mes-1": 97,
+        "vendas-mes-2": 106,
+        "vendas-mes-3": 172,
+        "codigo-descricao": "60739 - FUNGONAZOL SH 100ML (CETOCONAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d37",
+        "estoque-total": 162,
+        "vendas-mes-1": 1564,
+        "vendas-mes-2": 1497,
+        "vendas-mes-3": 992,
+        "codigo-descricao": "60747 - NASALFLUX 0,5MG/ML GTS 30ML (NAFAZOLINA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d38",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47821 - FUNGISTATINA SUSP 50ML (NISTATINA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d39",
+        "estoque-total": 2601,
+        "vendas-mes-1": 960,
+        "vendas-mes-2": 878,
+        "vendas-mes-3": 614,
+        "codigo-descricao": "47988 - NIFEDIPRESS RETARD 20MG 30 CP ( NIFEDIPIN",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d3a",
+        "estoque-total": 0,
+        "vendas-mes-1": 3,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "65293 - NITROFIGAN FLAC 60 UNID",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d3b",
+        "estoque-total": 38,
+        "vendas-mes-1": 5,
+        "vendas-mes-2": 4,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "60755 - NOVRALFLEX 20X10CP (ORFE+DIPIRONA+CAFEINA",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d3c",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "48020 - PANTONAX 40MG 14CP (PANTOPRAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d3d",
+        "estoque-total": 1127,
+        "vendas-mes-1": 41,
+        "vendas-mes-2": 47,
+        "vendas-mes-3": 2,
+        "codigo-descricao": "77240 - NOVRALFLEX 30CP (DIPIRONA+CAFEINA+ORFENAD",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d3e",
+        "estoque-total": 181,
+        "vendas-mes-1": 42,
+        "vendas-mes-2": 46,
+        "vendas-mes-3": 10,
+        "codigo-descricao": "60828 - PRESSOFLUX 40MG 40 CP (PROPRANOLOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d3f",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "63266 - PANTONAX 40MG 30 CP (PANTOPRAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d40",
+        "estoque-total": 295,
+        "vendas-mes-1": 54,
+        "vendas-mes-2": 40,
+        "vendas-mes-3": 179,
+        "codigo-descricao": "60771 - PRESSOMEDE 10MG 30 CP (ENALAPRIL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d41",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 12,
+        "codigo-descricao": "60780 - PRESSOMEDE 20MG 30 CP (ENALAPRIL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d42",
+        "estoque-total": 207,
+        "vendas-mes-1": 45,
+        "vendas-mes-2": 102,
+        "vendas-mes-3": 147,
+        "codigo-descricao": "60798 - PRESSTOPRIL 25MG 30CP (CAPTOPRIL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d43",
+        "estoque-total": 1455,
+        "vendas-mes-1": 63,
+        "vendas-mes-2": 16,
+        "vendas-mes-3": 95,
+        "codigo-descricao": "60810 - RANITIDIL 150MG 10 CP (RANITIDINA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d44",
+        "estoque-total": 1265,
+        "vendas-mes-1": 267,
+        "vendas-mes-2": 174,
+        "vendas-mes-3": 454,
+        "codigo-descricao": "60720 - RANITIDIL 150MG 20 CP (RANITIDINA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d45",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47708 - NASALFREE SPRAY 50ML",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d46",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "63258 - SUPREMUS-VIT 30 CP",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d47",
+        "estoque-total": 122,
+        "vendas-mes-1": 46,
+        "vendas-mes-2": 36,
+        "vendas-mes-3": 18,
+        "codigo-descricao": "47929 - TENOXIL 20MG 10CP (TENOXICAM)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d48",
+        "estoque-total": 137,
+        "vendas-mes-1": 103,
+        "vendas-mes-2": 112,
+        "vendas-mes-3": 82,
+        "codigo-descricao": "47937 - TETRAMED 500MG 25X4 CP (TETRACICLINA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d49",
+        "estoque-total": 939,
+        "vendas-mes-1": 90,
+        "vendas-mes-2": 10,
+        "vendas-mes-3": 3,
+        "codigo-descricao": "47732 - TYLAFLEX 200MG GTS 15ML (PARACETAMOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d4a",
+        "estoque-total": 6,
+        "vendas-mes-1": 20,
+        "vendas-mes-2": 7,
+        "vendas-mes-3": 6,
+        "codigo-descricao": "62847 - TYLAFLEX 500MG 125X4 CP (PARACETAMOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d4b",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "62855 - TYLAFLEX 750MG 12 CP (PARACETAMOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d4c",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "47740 - TYLAFLEX 750MG 50X4 CP (PARACETAMOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d4d",
+        "estoque-total": 78,
+        "vendas-mes-1": 34,
+        "vendas-mes-2": 72,
+        "vendas-mes-3": 19,
+        "codigo-descricao": "47716 - VITAMINA C 200MG GTS 20ML (MEDQUIMICA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d4e",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "48011 - PANTONAX 40MG 7CP ( PANTOPRAZOL)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d4f",
+        "estoque-total": 0,
+        "vendas-mes-1": 8,
+        "vendas-mes-2": 36,
+        "vendas-mes-3": 3,
+        "codigo-descricao": "47724 - VITAMINA C 500MG 20 CP (MEDQUIMICA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d50",
+        "estoque-total": 8653,
+        "vendas-mes-1": 1081,
+        "vendas-mes-2": 2083,
+        "vendas-mes-3": 1892,
+        "codigo-descricao": "47953 - VOMISTOP GTS C/10ML (METOCLOPRAMIDA)",
+        "codigo-cliente": "5503",
+        "nome-cliente": "RIOSFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d51",
+        "estoque-total": 280,
+        "vendas-mes-1": 214,
+        "vendas-mes-2": 94,
+        "vendas-mes-3": 104,
+        "codigo-descricao": "37273 - AEROMED (SALBUTAMOL) XPE 120ML MEDQUIMIC",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d52",
+        "estoque-total": 240,
+        "vendas-mes-1": 40,
+        "vendas-mes-2": 51,
+        "vendas-mes-3": 70,
+        "codigo-descricao": "221287 - AS-MED 500MG C/200 MEDQUI (ADULTO)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d53",
+        "estoque-total": 1333,
+        "vendas-mes-1": 367,
+        "vendas-mes-2": 279,
+        "vendas-mes-3": 352,
+        "codigo-descricao": "459046 - ASSEPMED 1% ESP?TULA 30ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d54",
+        "estoque-total": 3650,
+        "vendas-mes-1": 1117,
+        "vendas-mes-2": 1308,
+        "vendas-mes-3": 1712,
+        "codigo-descricao": "221104 - AS-MED 100MG 10X20 MEDQUI ( INFANTIL )",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d55",
+        "estoque-total": 3602,
+        "vendas-mes-1": 619,
+        "vendas-mes-2": 620,
+        "vendas-mes-3": 617,
+        "codigo-descricao": "459054 - ASSEPMED 1% SPRAY 50ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d56",
+        "estoque-total": 27245,
+        "vendas-mes-1": 3865,
+        "vendas-mes-2": 6416,
+        "vendas-mes-3": 5102,
+        "codigo-descricao": "36110 - AZITROMED COMP 500MG C/3 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d57",
+        "estoque-total": 3739,
+        "vendas-mes-1": 658,
+        "vendas-mes-2": 603,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "478806 - AZITROMICINA 500MG C/3 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d58",
+        "estoque-total": 217,
+        "vendas-mes-1": 45,
+        "vendas-mes-2": 69,
+        "vendas-mes-3": 75,
+        "codigo-descricao": "460931 - BOLDOBEBA FLC 10ML C/60 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d59",
+        "estoque-total": 100,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "477648 - CALCIMED SUSP 240ML MORANGO MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d5a",
+        "estoque-total": 305,
+        "vendas-mes-1": 57,
+        "vendas-mes-2": 73,
+        "vendas-mes-3": 121,
+        "codigo-descricao": "441783 - CARBOCISTEINA XPE AD 100ML MEDQ*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d5b",
+        "estoque-total": 102,
+        "vendas-mes-1": 25,
+        "vendas-mes-2": 9,
+        "vendas-mes-3": 82,
+        "codigo-descricao": "439045 - CARBOCISTEINA XPE INF 100ML MEDQ*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d5c",
+        "estoque-total": 2779,
+        "vendas-mes-1": 668,
+        "vendas-mes-2": 575,
+        "vendas-mes-3": 753,
+        "codigo-descricao": "439703 - COMPLEXO B C/100 COMP MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d5d",
+        "estoque-total": 2887,
+        "vendas-mes-1": 229,
+        "vendas-mes-2": 324,
+        "vendas-mes-3": 437,
+        "codigo-descricao": "439690 - COMPLEXO B C/50 COMP MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d5e",
+        "estoque-total": 302,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 26,
+        "vendas-mes-3": 39,
+        "codigo-descricao": "221872 - COMPLEXO B LIQ 100ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d5f",
+        "estoque-total": 727,
+        "vendas-mes-1": 292,
+        "vendas-mes-2": 55,
+        "vendas-mes-3": 34,
+        "codigo-descricao": "222097 - DELTAMETRIL XPU 100ML MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d60",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "149071 - DIPIMED COMP C/100 MEDQ (25X4)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d61",
+        "estoque-total": 151,
+        "vendas-mes-1": 16,
+        "vendas-mes-2": 43,
+        "vendas-mes-3": 58,
+        "codigo-descricao": "466603 - DIPIMED COMP C/200 (50X4) MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d62",
+        "estoque-total": 7682,
+        "vendas-mes-1": 636,
+        "vendas-mes-2": 904,
+        "vendas-mes-3": 1958,
+        "codigo-descricao": "36382 - DIPIMED GOTAS 10ML MED",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d63",
+        "estoque-total": 47916,
+        "vendas-mes-1": 6866,
+        "vendas-mes-2": 13247,
+        "vendas-mes-3": 12353,
+        "codigo-descricao": "148938 - DIPIMED GOTAS 20ML MED",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d64",
+        "estoque-total": 2376,
+        "vendas-mes-1": 238,
+        "vendas-mes-2": 736,
+        "vendas-mes-3": 344,
+        "codigo-descricao": "36897 - FLOXIMED-NORFLOX COMP C/14 MED",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d65",
+        "estoque-total": 1000,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 348,
+        "codigo-descricao": "476404 - FLUCONAZOL 150MG CAPS C/2 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d66",
+        "estoque-total": 12000,
+        "vendas-mes-1": 75,
+        "vendas-mes-2": 10844,
+        "vendas-mes-3": 7757,
+        "codigo-descricao": "453153 - FLUCOVIL CPS 150MG C/1 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d67",
+        "estoque-total": 2000,
+        "vendas-mes-1": 771,
+        "vendas-mes-2": 977,
+        "vendas-mes-3": 908,
+        "codigo-descricao": "467480 - FLUCOVIL CPS 150MG C/2 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d68",
+        "estoque-total": 2411,
+        "vendas-mes-1": 756,
+        "vendas-mes-2": 696,
+        "vendas-mes-3": 770,
+        "codigo-descricao": "221600 - FUNGONAZOL XPU 100ML MEDQU?MICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d69",
+        "estoque-total": 225,
+        "vendas-mes-1": 13,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 41,
+        "codigo-descricao": "261742 - DIPIMED COMP C/200 MEDQ (20X10)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d6a",
+        "estoque-total": 1430,
+        "vendas-mes-1": 214,
+        "vendas-mes-2": 186,
+        "vendas-mes-3": 301,
+        "codigo-descricao": "336262 - GASTROGEL CP C/20 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d6b",
+        "estoque-total": 1720,
+        "vendas-mes-1": 348,
+        "vendas-mes-2": 425,
+        "vendas-mes-3": 637,
+        "codigo-descricao": "148776 - GASTROGEL SUSP 150ML LARANJA MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d6c",
+        "estoque-total": 240,
+        "vendas-mes-1": -1,
+        "vendas-mes-2": 59,
+        "vendas-mes-3": 143,
+        "codigo-descricao": "447293 - GRIPINEW CPR C/150 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d6d",
+        "estoque-total": 6,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 8,
+        "codigo-descricao": "222844 - HIDROFLUX 50MG C/20 DRG MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d6e",
+        "estoque-total": 2403,
+        "vendas-mes-1": 4,
+        "vendas-mes-2": 715,
+        "vendas-mes-3": 969,
+        "codigo-descricao": "465780 - HIDROXIZINA SOL 100ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d6f",
+        "estoque-total": 1820,
+        "vendas-mes-1": 530,
+        "vendas-mes-2": 392,
+        "vendas-mes-3": 342,
+        "codigo-descricao": "438596 - GRIPINEW CPR C/20 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d70",
+        "estoque-total": 293,
+        "vendas-mes-1": 83,
+        "vendas-mes-2": 112,
+        "vendas-mes-3": 218,
+        "codigo-descricao": "420948 - HIDROXIMED SUSP 240ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d71",
+        "estoque-total": 10000,
+        "vendas-mes-1": 1180,
+        "vendas-mes-2": 1891,
+        "vendas-mes-3": 1982,
+        "codigo-descricao": "439746 - IBUPROFENO 100MG 20ML MEDQUIMICA*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d72",
+        "estoque-total": 2995,
+        "vendas-mes-1": 595,
+        "vendas-mes-2": 539,
+        "vendas-mes-3": 816,
+        "codigo-descricao": "439738 - IBUPROFENO 50MG 30ML MEDQUIMICA*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d73",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "439720 - IBUPROFENO 400MG C/100 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d74",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "445266 - IBUPROFENO 400MG C/20 MEDQUIMICA*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d75",
+        "estoque-total": 4006,
+        "vendas-mes-1": 139,
+        "vendas-mes-2": 91,
+        "vendas-mes-3": 324,
+        "codigo-descricao": "462276 - IBUPROMED 100MG/ML SUSP 20ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d76",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "462268 - IBUPROMED 50MG/ML SUSP 30ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d77",
+        "estoque-total": 57,
+        "vendas-mes-1": 26,
+        "vendas-mes-2": 18,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "459038 - LIVGAS 40MG CPR C/20 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d78",
+        "estoque-total": 63340,
+        "vendas-mes-1": 3011,
+        "vendas-mes-2": 5068,
+        "vendas-mes-3": 5045,
+        "codigo-descricao": "327190 - INFLAMEX 50MG COMP C/20 MEDQUI",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d79",
+        "estoque-total": 1,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "459453 - HIDROFLUX 25MG C/30 DRG MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d7a",
+        "estoque-total": 16979,
+        "vendas-mes-1": 1857,
+        "vendas-mes-2": 4708,
+        "vendas-mes-3": 3934,
+        "codigo-descricao": "222500 - GLICONIL 5MG COMP C/30 MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d7b",
+        "estoque-total": 41524,
+        "vendas-mes-1": 18554,
+        "vendas-mes-2": 16248,
+        "vendas-mes-3": 23601,
+        "codigo-descricao": "465887 - HIDROCLOROTIAZIDA 25MG CP C/30 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d7c",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "443425 - LIVGAS 75MG/ML GTS 15ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d7d",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": -59,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "465879 - HIDROCLOROTIAZIDA 25MG CP C/60 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d7e",
+        "estoque-total": 3026,
+        "vendas-mes-1": 2169,
+        "vendas-mes-2": 1167,
+        "vendas-mes-3": 1124,
+        "codigo-descricao": "468827 - LORATADINA XPE 100ML MEDQUIMICA*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d7f",
+        "estoque-total": 330,
+        "vendas-mes-1": 23,
+        "vendas-mes-2": 19,
+        "vendas-mes-3": 13,
+        "codigo-descricao": "466239 - MEDCALL 500MG COMP C/60 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d80",
+        "estoque-total": 334,
+        "vendas-mes-1": 207,
+        "vendas-mes-2": 135,
+        "vendas-mes-3": 186,
+        "codigo-descricao": "234931 - MEDCALL 600MG+D3 COMP C/60 =OSSOTRAT MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d81",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 7,
+        "vendas-mes-3": 10,
+        "codigo-descricao": "457248 - MEDTOM SOL 420ML MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d82",
+        "estoque-total": 700,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 62,
+        "codigo-descricao": "256668 - MEDTRIM 200MG LIQ 100ML MED",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d83",
+        "estoque-total": 1748,
+        "vendas-mes-1": 394,
+        "vendas-mes-2": 138,
+        "vendas-mes-3": 821,
+        "codigo-descricao": "456390 - MEGAVITAL DRG C/30 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d84",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "456683 - MEGAVITAL CPR C/90 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d85",
+        "estoque-total": 9009,
+        "vendas-mes-1": 1524,
+        "vendas-mes-2": 1562,
+        "vendas-mes-3": 1835,
+        "codigo-descricao": "223735 - NIFEDIPRESS RET 20MG C/30 MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d86",
+        "estoque-total": 26,
+        "vendas-mes-1": 7,
+        "vendas-mes-2": 2,
+        "vendas-mes-3": 2,
+        "codigo-descricao": "448850 - NOVRALFLEX CPR C/200 (20 BLISTERS C/10) M",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d87",
+        "estoque-total": 28,
+        "vendas-mes-1": 22,
+        "vendas-mes-2": 18,
+        "vendas-mes-3": 21,
+        "codigo-descricao": "121495 - NITROFIGAN FLAC C/60 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d88",
+        "estoque-total": 15000,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 9070,
+        "vendas-mes-3": 3529,
+        "codigo-descricao": "466174 - PARACETAMOL 750MG C/20 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d89",
+        "estoque-total": 3062,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 754,
+        "vendas-mes-3": 1404,
+        "codigo-descricao": "362506 - PARACETAMOL GTS 15ML LARANJA MEDQUI*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d8a",
+        "estoque-total": 480,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "466425 - PARACETAMOL 750MG 20X10 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d8b",
+        "estoque-total": 150,
+        "vendas-mes-1": 41,
+        "vendas-mes-2": 49,
+        "vendas-mes-3": 67,
+        "codigo-descricao": "336009 - PRESSOFLUX 40MG DRG C/40 MEDQUI",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d8c",
+        "estoque-total": 1823,
+        "vendas-mes-1": 877,
+        "vendas-mes-2": 653,
+        "vendas-mes-3": 514,
+        "codigo-descricao": "436267 - NASALFREE SPRAY 9,0 MG CLOR. S?DIO 50ML",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d8d",
+        "estoque-total": 1679,
+        "vendas-mes-1": 360,
+        "vendas-mes-2": 360,
+        "vendas-mes-3": 859,
+        "codigo-descricao": "36625 - PRESSOMEDE CP 20MG C/30 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d8e",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "420573 - PRESSTOPRIL 25MG CPR C/30 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d8f",
+        "estoque-total": 7190,
+        "vendas-mes-1": 221,
+        "vendas-mes-2": 388,
+        "vendas-mes-3": 553,
+        "codigo-descricao": "336181 - RANITIDIL 150MG COMP C/20 MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d90",
+        "estoque-total": 18927,
+        "vendas-mes-1": 4758,
+        "vendas-mes-2": 4629,
+        "vendas-mes-3": 3408,
+        "codigo-descricao": "441805 - SIMETICONA GOTAS 15ML MEDQUIMICA*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d91",
+        "estoque-total": 510,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 132,
+        "codigo-descricao": "234850 - SIMETICONA 40MG C/20 MEDQUIMICA*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d92",
+        "estoque-total": 159,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "472573 - HIDROFLUX 25MG C/60 COMP MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d93",
+        "estoque-total": 1429,
+        "vendas-mes-1": 199,
+        "vendas-mes-2": 226,
+        "vendas-mes-3": 394,
+        "codigo-descricao": "466166 - TENOXICAM 20MG C/10 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d94",
+        "estoque-total": 1902,
+        "vendas-mes-1": 362,
+        "vendas-mes-2": 128,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "285170 - TENOXIL 20MG COMP C/10 MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d95",
+        "estoque-total": 1747,
+        "vendas-mes-1": 493,
+        "vendas-mes-2": 466,
+        "vendas-mes-3": 358,
+        "codigo-descricao": "436569 - TETRACICLINA 500MG CX C/8 *MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d96",
+        "estoque-total": 169,
+        "vendas-mes-1": 68,
+        "vendas-mes-2": 89,
+        "vendas-mes-3": 106,
+        "codigo-descricao": "420581 - TETRACICLINA 500MG CP 20X4 MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d97",
+        "estoque-total": 196,
+        "vendas-mes-1": 44,
+        "vendas-mes-2": 66,
+        "vendas-mes-3": 21,
+        "codigo-descricao": "442836 - TETRAMED CPS 500MG (10 X 10) MEDQUIMICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d98",
+        "estoque-total": 555,
+        "vendas-mes-1": 68,
+        "vendas-mes-2": 57,
+        "vendas-mes-3": 74,
+        "codigo-descricao": "37354 - TETRAMED CPS 500MG MEDQ(25 X 4)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d99",
+        "estoque-total": 54,
+        "vendas-mes-1": 6,
+        "vendas-mes-2": 7,
+        "vendas-mes-3": 12,
+        "codigo-descricao": "121738 - TYLAFLEX 500MG C/500 CP MEDQUIM (125X4)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d9a",
+        "estoque-total": 907,
+        "vendas-mes-1": 35,
+        "vendas-mes-2": 63,
+        "vendas-mes-3": 125,
+        "codigo-descricao": "36544 - PRESSOMEDE CP 10MG C/30 MEDQU?MICA",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d9b",
+        "estoque-total": 60,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 5,
+        "codigo-descricao": "464783 - TYLAFLEX 750MG COMP C/200 MEDQ (20X10)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d9c",
+        "estoque-total": 0,
+        "vendas-mes-1": 0,
+        "vendas-mes-2": 0,
+        "vendas-mes-3": 0,
+        "codigo-descricao": "272434 - TYLAFLEX 750MG COMP C/200 MEDQ (50X04)",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d9d",
+        "estoque-total": 942,
+        "vendas-mes-1": 89,
+        "vendas-mes-2": 170,
+        "vendas-mes-3": 262,
+        "codigo-descricao": "121819 - TYLAFLEX GOTAS 15ML MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d9e",
+        "estoque-total": 1244,
+        "vendas-mes-1": 574,
+        "vendas-mes-2": 372,
+        "vendas-mes-3": 342,
+        "codigo-descricao": "283045 - VITAMINA C COMP C/20 MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8d9f",
+        "estoque-total": 2991,
+        "vendas-mes-1": 539,
+        "vendas-mes-2": 483,
+        "vendas-mes-3": 274,
+        "codigo-descricao": "37435 - VITAMINA C GOTAS 20ML MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8da0",
+        "estoque-total": 1305,
+        "vendas-mes-1": 738,
+        "vendas-mes-2": 942,
+        "vendas-mes-3": 863,
+        "codigo-descricao": "37516 - VOMISTOP GOTAS 10ML MEDQ",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      },
+      {
+        "_id": "577a59722c771a90562f8da1",
+        "estoque-total": 2032,
+        "vendas-mes-1": 814,
+        "vendas-mes-2": 571,
+        "vendas-mes-3": 613,
+        "codigo-descricao": "178500 - RANITIDINA 150MG COMP C/20 MEDQUIM*",
+        "codigo-cliente": "4221",
+        "nome-cliente": "STOCKFARMA"
+      }
+    ]
+  }
+}

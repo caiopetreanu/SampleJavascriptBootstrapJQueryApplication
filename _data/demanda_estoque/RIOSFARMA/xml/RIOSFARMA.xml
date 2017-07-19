@@ -1,0 +1,1913 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Ricardo Zuccarelli</Author>
+  <LastAuthor>Owner</LastAuthor>
+  <Revision>0</Revision>
+  <Created>2016-06-01T23:26:35Z</Created>
+  <LastSaved>2016-06-05T13:24:32Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9060</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m173722512">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#00008B"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#00008B"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="18"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m173724564">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m173724584">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m173724604">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m173724624">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m173724644">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"
+    ss:Color="#00008B" ss:Bold="1"/>
+   <Interior ss:Color="#D3D3D3" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="5.95"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="5.95"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sugestao de Compras New">
+  <Table ss:ExpandedColumnCount="29" ss:ExpandedRowCount="85" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="77.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="42"/>
+   <Column ss:AutoFitWidth="0" ss:Width="35.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="6.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="70.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="13.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="21" ss:Span="1"/>
+   <Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="27.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="28.5" ss:Span="1"/>
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="27.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="35.25" ss:Span="1"/>
+   <Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:AutoFitWidth="0" ss:Width="35.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="27.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="11.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="23.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:AutoFitWidth="0" ss:Width="42"/>
+   <Column ss:AutoFitWidth="0" ss:Width="16.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="11.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="12.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="29.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="19.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="5.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="3.75" ss:Span="1"/>
+   <Row ss:AutoFitHeight="0" ss:Height="9.375">
+    <Cell ss:Index="19" ss:MergeAcross="3" ss:StyleID="s74"><Data ss:Type="String">RIOSFARMA COM. DE MED. LTDA</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s75"><Data ss:Type="String">Tel.:</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s74"><Data ss:Type="String">85 40054888</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.375">
+    <Cell ss:Index="19" ss:MergeAcross="3" ss:StyleID="s74"><Data ss:Type="String">RUA  ZEROMAO DE ARAUJO</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s75"><Data ss:Type="String">FAX.:</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.375">
+    <Cell ss:Index="19" ss:MergeAcross="3" ss:StyleID="s74"><Data ss:Type="String">FORTALEZA</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s75"><Data ss:Type="String">UF.:</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s74"><Data ss:Type="String">CE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Hidden="1"/>
+   <Row ss:AutoFitHeight="0" ss:Height="7.125"/>
+   <Row ss:AutoFitHeight="0" ss:Height="23.8125">
+    <Cell ss:MergeAcross="26" ss:StyleID="m173722512"><Data ss:Type="String">Compras: Sugestão de Compra</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.0625">
+    <Cell ss:MergeAcross="2" ss:StyleID="s16"><Data ss:Type="String">Método: 90 Dias</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">CURVA:</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">D</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">ESTOQUE:</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="Number">99999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.1875"/>
+   <Row>
+    <Cell ss:MergeAcross="6" ss:StyleID="s18"><Data ss:Type="String">FILIAL: RIOSFARMA COM. DE MED. LTDA</Data></Cell>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s20"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s20"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s18"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s18"><Data ss:Type="String">LEADTIME: 15</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s20"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s20"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s18"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="10" ss:StyleID="s18"><Data ss:Type="String">FORNECEDOR:  MEDQUIMICA</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s20"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="21">
+    <Cell ss:MergeAcross="4" ss:StyleID="m173724564"><Data ss:Type="String">Código - Descrição</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">C</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">UN</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">CX</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">mar    2016</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">abr    2016</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">mai    2016</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">jun    2016</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Entrada</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ideal</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Atual</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Pend.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Trans.</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m173724584"><Data ss:Type="String">Necess.</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Preço</Data></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Valor</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m173724604"><Data ss:Type="String">Dias</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m173724624"><Data ss:Type="String">Retenção</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m173724644"><Data ss:Type="String">Fator</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47759 - AEROMED XPE 120 ML (SALBUTAMOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">69</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">44</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">7,25</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">181,25</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47511 - AS-MED 100MG 200CP (ACETILSALICILICO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">78</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">68</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">24,46</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1712,20</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">78</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47503 - AS-MED 500MG 200CP (AC. ACETILSALICILICO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">53,94</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">377,58</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">78867 - ASSEPMED 1% 30ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">42</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,41</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">78859 - ASSEPMED SPRAY 1% 50ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">186</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-151</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">10,95</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2036,70</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">399</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47538 - ATROVEX 20 CP</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">9,12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47520 - ATROVEX GTS 20ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">7,53</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47767 - AZITROMED 500MG 3CP (AZITROMICINA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">622</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">453</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">327</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1142</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1134</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">13,40</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">15195,60</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">74</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">65277 - BOLDOBEBA FLAC 60 UNID</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">199</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">225</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">203</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">131,71</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2897,62</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47554 - CEFALINA 20 CP</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">9,31</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">18,62</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">56367 - COMPLEXO B 100 CP (MEDQUIMICA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">106</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-106</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">28,22</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2991,32</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">603</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">56111 - COMPLEXO B CX 50 CP (MEDQUIMICA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">76</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-76</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">18,96</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1440,96</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1630</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47589 - COMPLEXO B SOL 100ML (MEDQUIMICA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">150</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">65</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">392</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">466</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">462</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">9,23</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">36,92</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47627 - DELTAMETRIL SHP 0,2MG/ML 100ML (DELTAMETR</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">346</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-265</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">12,72</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">4401,12</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">321</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47600 - DIPIMED 500MG 25X4CP (DIPIRONA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">43</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">49,11</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1817,07</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">62839 - DIPIMED 500MG 50X4CP (DIPIRONA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">94,87</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">5881,94</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">74</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47597 - DIPIMED 500MG GTS 10ML (DIPIRONA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">480</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8352</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4339</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2277</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">38398</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12058</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">521</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">38398</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-26861</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">3,89</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2026,69</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">72192 - ESPIMED 5% GEL 20G</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">12,87</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47791 - FLOXIMED 400MG 14CP (NORFLOXACINO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">298</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">162</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">101</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">468</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">673</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-206</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">18,09</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">12174,57</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">108</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47805 - FLUCOVIL 150MG 1 CP (FLUCONAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2206</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1242</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2736</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">8000</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5224</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8000</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-2818</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,78</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">284,76</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47813 - FLUCOVIL 150MG 2CP (FLUCONAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">743</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1220</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1510</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">3000</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2829</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2528</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3000</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-2699</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">10,66</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">26948,48</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47821 - FUNGISTATINA SUSP 50ML (NISTATINA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">18,05</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60739 - FUNGONAZOL SH 100ML (CETOCONAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">172</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">106</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">320</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">978</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-658</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">38,07</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">37232,46</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">229</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47635 - GASTROGEL 20CP</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">61</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">247</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">192</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">511</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-319</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">9,35</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">4777,85</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">199</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47643 - GASTROGEL SUSP 150ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">266</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">176</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">252</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">495</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">742</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-247</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">15,19</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">11270,98</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47848 - GLICONIL 5MG 30CP (GLIBENCLAMIDA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">995</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1733</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1767</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3668</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4031</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-364</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,03</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">24306,93</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">82</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">63223 - GRIPINEW 150 CP</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">161</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-74</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">107,69</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">17338,09</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">138</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47651 - GRIPINEW 20CP</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">14,00</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">63371 - HIDROFLUX 25MG 30CP (HIDROCLOROTIAZIDA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1832</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1405</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1716</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2550</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3976</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2280</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2550</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-854</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">3,04</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6931,20</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">63231 - HIDROFLUX 25MG 60CP (HIDROCLOROTIAZIDA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">76</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-76</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,08</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">462,08</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47961 - HIDROFLUX 50MG 20CP (HIDROCLOROTIAZIDA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">158</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">90</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">68</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">4,30</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">387,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">77208 - IBUPROMED GTS 20ML (IBUPROFENO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">192</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">121</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">144</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">366</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">307</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">59</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">14,00</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">4298,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">77216 - IBUPROMED SUSP 30ML (IBUPROFENO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">126</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">10,95</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">10,95</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47856 - INFLAMEX 50MG 20CP (DICLOF. SODICO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">143</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">555</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">294</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">812</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">741</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">71</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">7,81</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">5787,21</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">68</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">72206 - LIVGAS 40MG 20CP (SIMETICONA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">178</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">130</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">500</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">338</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-163</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">10,04</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60801 - LIVGAS GTS 75MG/ML 15ML (SIMETICONA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">851</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">476</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">437</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">720</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1452</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3043</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">720</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-2311</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">8,74</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">26595,82</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">157</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">69299 - MEDCALL D3 500MG 60 CP (CARBONATO DE CALC</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">182</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">318</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">78</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">47,65</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">11436,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">57</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">57452 - MEDCALL D3 600MG 60 (CARBONATO DE CALCIO)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">296</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">435</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">595</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1047</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1152</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-105</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">47,65</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">54892,80</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">83</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47996 - MEDPRAZOL 20MG 28CP (OMEPRAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">15,60</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47686 - MEDTOM FR 420ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">82</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">144</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">94</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">144</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-59</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">21,60</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">194,40</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47899 - MEDTRIM SUSP 200MG + 40MG 100ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">641</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">222</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">999</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1390</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-391</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">9,94</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">13816,60</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">104</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60747 - NASALFLUX 0,5MG/ML GTS 30ML (NAFAZOLINA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">126</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">992</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1497</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1564</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3204</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">162</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">3042</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,58</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1065,96</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">86</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47708 - NASALFREE SPRAY 50ML</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">7,54</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47988 - NIFEDIPRESS RETARD 20MG 30 CP ( NIFEDIPIN</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">614</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">878</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">960</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1530</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1972</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1071</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1530</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-629</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">12,95</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">13869,45</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">65293 - NITROFIGAN FLAC 60 UNID</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">120,42</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60755 - NOVRALFLEX 20X10CP (ORFE+DIPIRONA+CAFEINA</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-31</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">66,26</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2517,88</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">380</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">77240 - NOVRALFLEX 30CP (DIPIRONA+CAFEINA+ORFENAD</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">47</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">75</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1127</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-1052</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">9,94</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">11202,38</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1127</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">130</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">48020 - PANTONAX 40MG 14CP (PANTOPRAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">27,21</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">63266 - PANTONAX 40MG 30 CP (PANTOPRAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">49,57</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">48011 - PANTONAX 40MG 7CP ( PANTOPRAZOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">18,04</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60828 - PRESSOFLUX 40MG 40 CP (PROPRANOLOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">82</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">181</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-99</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">5,78</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1046,18</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">166</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">108</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60771 - PRESSOMEDE 10MG 30 CP (ENALAPRIL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">179</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">198</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">241</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">198</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-54</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">16,26</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1577,22</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60780 - PRESSOMEDE 20MG 30 CP (ENALAPRIL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">23,13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60798 - PRESSTOPRIL 25MG 30CP (CAPTOPRIL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">147</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">220</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">207</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">8,87</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1836,09</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60810 - RANITIDIL 150MG 10 CP (RANITIDINA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">134</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1455</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-1321</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">11,73</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">17067,15</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">813</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">60720 - RANITIDIL 150MG 20 CP (RANITIDINA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">454</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">174</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">267</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1120</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">710</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">145</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1120</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-555</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">17,85</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">2588,25</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">63258 - SUPREMUS-VIT 30 CP</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">15,90</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47929 - TENOXIL 20MG 10CP (TENOXICAM)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">92</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">122</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-30</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">14,28</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1742,16</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47937 - TETRAMED 500MG 25X4 CP (TETRACICLINA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">82</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">103</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">246</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">137</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">109</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">73,65</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">10090,05</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47732 - TYLAFLEX 200MG GTS 15ML (PARACETAMOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">90</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">86</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">939</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-853</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">7,69</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">7220,91</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">820</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">278</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">62847 - TYLAFLEX 500MG 125X4 CP (PARACETAMOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">200,53</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">1203,18</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">62855 - TYLAFLEX 750MG 12 CP (PARACETAMOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,70</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47740 - TYLAFLEX 750MG 50X4 CP (PARACETAMOL)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">108,47</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">1915</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47716 - VITAMINA C 200MG GTS 20ML (MEDQUIMICA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">104</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">78</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">6,71</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">523,38</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47724 - VITAMINA C 500MG 20 CP (MEDQUIMICA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">33</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">14,00</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">47953 - VOMISTOP GTS C/10ML (METOCLOPRAMIDA)</Data></Cell>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">UN </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">216</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1892</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2083</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">1081</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">8640</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4854</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8640</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="String">-3799</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">4,13</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">53,69</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s24"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s24"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s25"><Data ss:Type="String">Total Unidades:</Data></Cell>
+    <Cell ss:StyleID="s25"/>
+    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">22921</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">18718</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">18159</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">64800</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">49292</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">27371</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">64800</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s27"><Data ss:Type="String">-42880</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:StyleID="s27"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s25"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s27"><Data ss:Type="Number">5148</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s27"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s28"><Data ss:Type="String">Total R$:</Data></Cell>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s30"><Data ss:Type="String">41.448,87</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s30"><Data ss:Type="String">41.281,93</Data></Cell>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s30"><Data ss:Type="String">336.471,60</Data></Cell>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:MergeAcross="3" ss:StyleID="s30"><Data ss:Type="String">373.765,70</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s28"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s30"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s30"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s33"><Data ss:Type="String">39.150,69</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s33"><Data ss:Type="String">0,00</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s31"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s33"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Hidden="1"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.2"/>
+    <Footer x:Margin="0.2"
+     x:Data="&amp;L&amp;&quot;Times New Roman&quot;&amp;8 Página &#10;&amp;P &#10;de &#10;&amp;N &#10;Data &#10;1/6/2016 10:22 &amp;R&amp;&quot;Times New Roman&quot;&amp;10 Powered by &#10;&amp;BDELAGE&amp;B"/>
+    <PageMargins x:Bottom="0.43" x:Left="0.2" x:Right="0.2" x:Top="0.2"/>
+   </PageSetup>
+   <Print>
+    <LeftToRight/>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
